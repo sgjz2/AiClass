@@ -1,42 +1,54 @@
 ---
 name: ecommerce-hero-en
-description: Plan, produce, and evaluate an ecommerce product marketing hero visual when a user provides product information and requests a promotional image or design direction.
+description: Plan, produce, or review one static ecommerce product marketing hero visual from real product materials. Use for promotional product images, campaign hero images, and static ads, not full product-detail image sets or video.
 ---
 
 # Ecommerce Product Marketing Hero Visual
 
-Goal: help the target customer recognize the product quickly, understand its strongest purchase reason, and read essential price or campaign information, encouraging a click or purchase. Let the task determine whether the deliverable is an image, editable source file, design rationale, or concept. Do not treat the course example's brand, canvas, or copy as universal requirements.
+Turn product materials into one static visual that communicates the product's core value quickly and encourages a click or purchase. Deliver a concept, finished visual, or revision according to the task. Do not default to the course example's brand, price, canvas, or language versions. A teammate who did not join the original discussion should be able to reproduce the main decisions using this skill and the same inputs.
 
-## 1. Organize the brief and inputs
+## 1. Establish scope and inputs
 
-Extract the product and brand, target audience, placement, communication goal, main selling points, product images and logo, mandatory copy, price and campaign rules, language, dimensions and format, brand guidelines, and deadline. Separate confirmed facts, questions that need answers, and design choices left open.
+First identify whether the user needs **planning, production, or review of an existing visual**. Record the audience, placement, communication goal, product and brand, product or packaging photos, logo and brand rules, substantiated selling points, mandatory copy, price and campaign terms, language, canvas specifications, and delivery format. Mark each item as confirmed, needing confirmation, or open to design judgment.
 
-Ask a few focused questions when missing product identity, mandatory copy, campaign terms, or canvas specifications would materially change the design. Continue with parts that can reasonably proceed. Never invent performance claims, specifications, discounts, dates, prices, certifications, or brand promises. Mark uncertain facts for confirmation and keep them out of final marketing copy.
+Product identity and a communication goal are the minimum inputs for planning. A finished visual faithful to a real product also needs trustworthy product imagery or assets sufficient to depict it accurately. Ask focused questions if missing information would change the main benefit, product appearance, mandatory copy, or canvas. State reasonable assumptions for other gaps and continue. Never guess prices, dates, discounts, performance claims, certifications, sales figures, reviews, or platform rules. Unsupported content must not appear in the final visual.
 
-## 2. Set the content hierarchy and visual direction
+If the user names a platform and asks for current platform compliance, check its latest official requirements before deciding size or content restrictions. If verification is unavailable, mark the rule unverified; do not present an example specification or old convention as a current rule.
 
-State in one sentence the product value the audience should remember. Choose one primary selling point and rank the remaining content: product and brand, headline, supporting benefits, price and campaign terms, and call to action. Adapt the amount of information to the placement and viewing speed; the core message should remain recognizable at mobile thumbnail size.
+## 2. Derive the main message from evidence
 
-Propose at least two meaningfully different visual directions. Briefly describe each direction's composition, palette, type, product treatment, information hierarchy, and fit with the brief. Select a direction based on the communication goal, brand consistency, available assets, and production feasibility, and explain why. If the user already chose a clear direction, develop it directly without forcing alternatives.
+Write a short brief: `who sees it → where they see it → what they must understand immediately → what action is intended`. Make a fact list that ties every proposed selling point to user materials, packaging, a manual, or another traceable source. Separate objective facts, copy choices, and unsupported ideas.
 
-## 3. Produce the hero visual
+Choose **one primary purchase reason** from supported candidates. Judge its relevance to the audience, speed of comprehension in a visual, strength of evidence, and ability to distinguish the product. Keep only a few supporting points when needed. Do not give every specification equal prominence. When translating a technical feature into a customer benefit, keep the underlying specification accurate and do not overstate what it proves.
 
-Keep the product visually central and give the headline and essential information clear space. Control copy length, contrast, and whitespace. Do not let decorative elements obscure the product outline, brand mark, price, or campaign conditions. Follow the brand guidelines, and do not alter the logo or make the product look unlike the actual item.
+Set the content order: product and brand → headline or main benefit → essential proof or supporting point → price and campaign conditions if required → call to action if appropriate. If the composition is crowded at target size, remove optional copy before shrinking everything. Do not conceal required terms for the sake of the layout.
 
-Generative imagery may help with backgrounds, atmosphere, or supporting elements. Check important product details, logos, and legal or campaign copy against trustworthy source assets. Correct generated text, numbers, and details during final production. Record asset sources, key prompts, and manual changes so the team can review them.
+## 3. Create an executable visual direction
 
-## 4. Review and iterate
+If the user has not chosen a direction, propose two options that differ in **how they communicate**, such as a material-detail approach versus a use-context approach, rather than only changing the palette. For each, explain the first focal point, product treatment, composition and whitespace, color and light, copy placement, relationship to the brand, and support for the main purchase reason. Select one using the goal, asset quality, and brand constraints; record why. Develop an already chosen direction directly.
 
-Check at least the following:
+Before production, write a compact execution specification covering:
 
-- **Communication:** Is the product, main benefit, and intended action clear at a glance?
-- **Accuracy:** Do specifications, price, dates, and campaign terms match the supplied facts? Are any unsupported claims present?
-- **Visual quality:** Are hierarchy, alignment, contrast, legibility, product edges, and image completeness sound?
-- **Brand:** Do the logo, colors, tone, and product appearance match the supplied guidance?
-- **Delivery:** Do dimensions, format, language versions, and source files meet the brief?
+| Item | Decisions to record |
+| --- | --- |
+| Product fidelity | Silhouette, colors, material, packaging text, logo placement, construction, and accessories that must not change |
+| Composition | Aspect, product position and scale, angle, reading order, safe margins, and whitespace |
+| Information hierarchy | Locations of headline, supporting copy, price, and conditions; content to omit |
+| Visual language | Palette, type direction, background, props, lighting, and relationship to the brand |
+| Production method | Source assets, elements that may be generated, and how text and numbers will be corrected |
 
-Review at the actual placement size or an approximate mobile viewing size. Record each problem, the change made, and the result. When possible, ask someone who did not make the visual to glance at it briefly and describe the main message, then revise any point they misread.
+## 4. Produce and record decisions
 
-## 5. Deliver
+Keep the product visually central. At the actual placement size or approximate mobile viewing size, the product, main message, and essential price information should remain recognizable. Generative tools may create backgrounds, atmosphere, or supporting elements. Compare the product itself, logo, packaging text, and promotional information against source materials. If a generated image changes the product structure or text, correct it with trustworthy source assets or manual editing instead of accepting the error for visual appeal. Do not add features, accessories, or specifications the real product lacks.
 
-Provide the files required by the task and a short note covering the design goal, chosen direction and reason, facts checked, open questions, asset sources, and revision summary. If producing an image is not possible, deliver an actionable layout and production instructions, clearly identifying the work as a concept rather than a finished visual.
+Record final asset sources, major generation prompts or design parameters, manual edits, and the evidence behind each marketing fact. Keep the record concise but sufficient for a teammate to review why the result looks and says what it does.
+
+## 5. Check, revise, and check again
+
+First check **delivery blockers**: product appearance or logo conflicts with sources; a price, date, discount, specification, or claim is unsupported or wrong; mandatory campaign conditions are missing; copy is unreadable or cropped; dimensions, format, or language differ from the brief. Correct any blocker before delivery.
+
+Then check communication quality: after a brief glance, can a viewer say what the product is, why it merits attention, and what to do next? Is the first focal point clear? Does the main benefit lead supporting details? Do background and decoration distract from the product? Is the brand tone consistent? When possible, ask a teammate who did not make the visual to glance at it at an approximate delivery size and repeat the message they understood. Record the misunderstanding, revision, and result. Do not claim improved click-through or conversion without actual measurements; without them, evaluate legibility and communication clarity.
+
+## 6. Deliver
+
+Deliver the final visual and source files required by the task, with a concise note covering the brief, primary purchase reason and evidence, selected direction, actual size and format, asset sources, checks and revisions, and remaining questions. If only a concept was made, label it as a concept and provide a sufficiently detailed execution specification. Do not present a concept as a finished visual.
