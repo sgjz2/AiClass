@@ -1,0 +1,11 @@
+# Local build and temporary files
+tmp/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+.DS_Store
+Thumbs.db
