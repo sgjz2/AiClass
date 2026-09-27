@@ -4,7 +4,7 @@
 
 ## 交付内容
 
-1. 完整的[中文版 Skill](skills/ecommerce-hero-zh/SKILL.md)和[英文版 Skill](skills/ecommerce-hero-en/SKILL.md)。
+1. 完整的[中文版 Skill](.agents/skills/ecommerce-hero-zh/SKILL.md)和[英文版 Skill](.agents/skills/ecommerce-hero-en/SKILL.md)。
 2. 使用课程统一 LaTeX 模板撰写的测试报告。模板和统一测试任务发布后补入 `report/`。
 
 仓库中的 Skill 目前是**可讨论的初稿**，还需要团队用真实商品资料试跑、修订。课程提供的保温杯案例仅供参考，其中的品牌、尺寸、价格、画幅比例等不作为通用硬性要求。
@@ -12,6 +12,7 @@
 ## 从哪里开始
 
 - 阅读 [作业要求与待确认事项](docs/assignment.md)。
+- 阅读 [公开 Skill 范例与借鉴点](docs/skill-references.md)，确定下一轮改写重点。
 - 按 [协作与试跑计划](docs/plan.md)认领工作。
 - 修改 Skill 时保持中英文内容含义一致；在 PR 中说明修改原因和试跑证据。
 - 不直接在 `main` 上修改：从 `main` 新建分支，提交 PR，经另一位组员阅读后合并。
@@ -20,7 +21,7 @@
 
 ```text
 docs/       作业要求摘要、分工与测试计划
-skills/     中英文 Skill
+.agents/skills/  中英文 Skill；Codex 可在本仓库内发现
 report/     课程统一模板发布后的 LaTeX 报告
 tests/      试跑记录与评价结果（不放私密信息）
 ```
