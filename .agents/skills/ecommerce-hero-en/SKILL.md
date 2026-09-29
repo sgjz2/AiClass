@@ -5,7 +5,7 @@ description: Plan, produce, or review one static ecommerce product marketing her
 
 # Ecommerce Product Marketing Hero Visual
 
-Turn product materials into one static visual that communicates the product's core value quickly and encourages a click or purchase. Deliver a concept, finished visual, or revision according to the task. Do not default to the course example's brand, price, canvas, or language versions. A teammate who did not join the original discussion should be able to reproduce the main decisions using this skill and the same inputs.
+Turn product materials into one static visual that communicates the product's core value quickly and encourages a click or purchase. **When a finished visual is requested, the Agent must carry out planning, image generation, layout, export, and inspection, and deliver an actual image file. Do not make hand drawing or user-operated layout a required production step.** The user supplies materials and evaluates the result. Do not default to the course example's brand, price, canvas, or language versions.
 
 ## 1. Establish scope and inputs
 
@@ -37,18 +37,20 @@ Before production, write a compact execution specification covering:
 | Visual language | Palette, type direction, background, props, lighting, and relationship to the brand |
 | Production method | Source assets, elements that may be generated, and how text and numbers will be corrected |
 
-## 4. Produce and record decisions
+## 4. Have the Agent produce and record decisions
 
-Keep the product visually central. At the actual placement size or approximate mobile viewing size, the product, main message, and essential price information should remain recognizable. Generative tools may create backgrounds, atmosphere, or supporting elements. Compare the product itself, logo, packaging text, and promotional information against source materials. If a generated image changes the product structure or text, correct it with trustworthy source assets or manual editing instead of accepting the error for visual appeal. Do not add features, accessories, or specifications the real product lacks.
+The Agent selects an available production path and executes it through final export. Use an image generation tool for background, atmosphere, props, or suitable visual elements; keep authentic product imagery and the logo as fidelity references. Then use an Agent-operable graphics tool or code (such as SVG, HTML/CSS, Canvas, or an image composition library) to place the product, headline, benefits, price, and campaign terms and export the requested image format. The tools may vary, but the teammate must not be asked to perform the layout manually. If the Agent can operate design software, the Agent should do the edits there.
 
-Record final asset sources, major generation prompts or design parameters, manual edits, and the evidence behind each marketing fact. Keep the record concise but sufficient for a teammate to review why the result looks and says what it does.
+Keep the product visually central. At the actual placement size or approximate mobile viewing size, the product, main message, and essential price information should remain recognizable. Generate and lay out important words and numbers as editable text where possible instead of relying on an image model to spell them inside the picture. Compare the product, logo, packaging text, and promotional details against source materials. If generation changes the product structure or text, the Agent should recompose or revise using trustworthy assets. Do not add features, accessories, or specifications the real product lacks.
+
+Save a reproducible source file or generation script, along with source assets, major prompts, Agent revisions, and the evidence behind each marketing fact. The record should let a teammate review the outcome from the same inputs.
 
 ## 5. Check, revise, and check again
 
 First check **delivery blockers**: product appearance or logo conflicts with sources; a price, date, discount, specification, or claim is unsupported or wrong; mandatory campaign conditions are missing; copy is unreadable or cropped; dimensions, format, or language differ from the brief. Correct any blocker before delivery.
 
-Then check communication quality: after a brief glance, can a viewer say what the product is, why it merits attention, and what to do next? Is the first focal point clear? Does the main benefit lead supporting details? Do background and decoration distract from the product? Is the brand tone consistent? When possible, ask a teammate who did not make the visual to glance at it at an approximate delivery size and repeat the message they understood. Record the misunderstanding, revision, and result. Do not claim improved click-through or conversion without actual measurements; without them, evaluate legibility and communication clarity.
+The Agent must open or render the exported image and inspect it at full size and approximate mobile viewing size. When it finds a problem, it revises the source and exports again until delivery blockers are resolved. Then check communication quality: after a brief glance, can a viewer say what the product is, why it merits attention, and what to do next? Is the first focal point clear? Does the main benefit lead supporting details? Do background and decoration distract from the product? Is the brand tone consistent? A teammate may act as an independent viewer; the Agent iterates on that feedback. Record the misunderstanding, revision, and result. Without actual measurements, evaluate legibility and communication clarity rather than claiming improved click-through or conversion.
 
 ## 6. Deliver
 
-Deliver the final visual and source files required by the task, with a concise note covering the brief, primary purchase reason and evidence, selected direction, actual size and format, asset sources, checks and revisions, and remaining questions. If only a concept was made, label it as a concept and provide a sufficiently detailed execution specification. Do not present a concept as a finished visual.
+For a production task, deliver the Agent-generated final visual and reproducible source file or script. Add a concise note covering the brief, primary purchase reason and evidence, selected direction, actual size and format, asset sources, generation and composition tools used, checks and revisions, and remaining questions. Deliver only a concept when the user explicitly requests a planning stage. If the environment genuinely cannot generate an image, report the specific missing capability and preserve completed work; do not turn a production task into instructions for the user to finish manually.
