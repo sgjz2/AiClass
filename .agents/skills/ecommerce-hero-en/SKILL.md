@@ -21,6 +21,10 @@ Write a short brief: `who sees it → where they see it → what they must under
 
 Choose **one primary purchase reason** from supported candidates. Judge its relevance to the audience, speed of comprehension in a visual, strength of evidence, and ability to distinguish the product. Keep only a few supporting points when needed. Do not give every specification equal prominence. When translating a technical feature into a customer benefit, keep the underlying specification accurate and do not overstate what it proves.
 
+**Before composition, document a mapping from audience → situation → theme promise → visible evidence.** For each target group, state where they encounter or use the product, the need relevant to the communication goal (mark it as a design hypothesis if no audience research supports it), which supplied product fact addresses that need, and which visible elements will communicate the situation and benefit. Support the core theme with at least two concrete cues from the product, usage context, or composition. A headline repeating the theme or seasonal colors alone do not count. Do not turn a theme such as “travel light” into an unsupported claim about product weight, size, or performance.
+
+Run a **scene countercheck**: hide the headline, benefits, and offer. Can a viewer still connect the scene to the specified audience situation? If the background would serve any brand's seasonal promotion equally well, revise the scene or composition. This checks the design's expression; it is not a substitute for user research.
+
 Set the content order: product and brand → headline or main benefit → essential proof or supporting point → price and campaign conditions if required → call to action if appropriate. If the composition is crowded at target size, remove optional copy before shrinking everything. Do not conceal required terms for the sake of the layout.
 
 ## 3. Create an executable visual direction
@@ -43,6 +47,8 @@ The Agent selects an available production path and executes it through final exp
 
 Keep the product visually central. At the actual placement size or approximate mobile viewing size, the product, main message, and essential price information should remain recognizable. Generate and lay out important words and numbers as editable text where possible instead of relying on an image model to spell them inside the picture. Compare the product, logo, packaging text, and promotional details against source materials. If generation changes the product structure or text, the Agent should recompose or revise using trustworthy assets. Do not add features, accessories, or specifications the real product lacks.
 
+Inspect the visible content bounds before composition. A transparent product image may include a large low-opacity shadow or empty margin; positioning by the whole image box can make the product too small or leave it floating. Size and align the opaque product body with the scene's supporting surface, light direction, and shadow. Tell the image generator to leave out products, logos, readable text, and prices, and reserve low-detail areas for the headline, benefits, and offer. If background detail still interferes with copy, use a smoothly faded veil or local whitespace rather than a visibly hard-edged mask. Measure line widths and wrapping separately for each language; do not force translated copy into fixed boxes copied from another language.
+
 Save a reproducible source file or generation script, along with source assets, major prompts, Agent revisions, and the evidence behind each marketing fact. The record should let a teammate review the outcome from the same inputs.
 
 ## 5. Check, revise, and check again
@@ -50,6 +56,9 @@ Save a reproducible source file or generation script, along with source assets, 
 First check **delivery blockers**: product appearance or logo conflicts with sources; a price, date, discount, specification, or claim is unsupported or wrong; mandatory campaign conditions are missing; copy is unreadable or cropped; dimensions, format, or language differ from the brief. Correct any blocker before delivery.
 
 The Agent must open or render the exported image and inspect it at full size and approximate mobile viewing size. When it finds a problem, it revises the source and exports again until delivery blockers are resolved. Then check communication quality: after a brief glance, can a viewer say what the product is, why it merits attention, and what to do next? Is the first focal point clear? Does the main benefit lead supporting details? Do background and decoration distract from the product? Is the brand tone consistent? A teammate may act as an independent viewer; the Agent iterates on that feedback. Record the misunderstanding, revision, and result. Without actual measurements, evaluate legibility and communication clarity rather than claiming improved click-through or conversion.
+
+Check the product name, benefits, price, dates, and call to action against the supplied copy word for word. Any added decorative eyebrow must be supported by the brief and must not imply an unconfirmed discount or feature. Inspect the final exported file, not only the composition source.
+Check horizontal and vertical alignment of copy inside buttons and offer panels against actual glyph bounds, then inspect it again at mobile size. Fixed top-left text coordinates can make a label appear off-center.
 
 ## 6. Deliver
 
