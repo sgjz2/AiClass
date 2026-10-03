@@ -1,65 +1,62 @@
 ---
 name: ecommerce-hero-en
-description: Plan, produce, or review one static ecommerce product marketing hero visual from real product materials. Use for promotional product images, campaign hero images, and static ads, not full product-detail image sets or video.
+description: Produce, refine, or review one English ecommerce hero, promotional lead image, or campaign key visual from real product materials. Integrate product, scene, expressive typography and decoration while verifying identity and commercial facts; not a full detail-page set or video workflow.
 ---
 
-# Ecommerce Product Marketing Hero Visual
+# Ecommerce hero production
 
-Turn product materials into one static visual that communicates the product's core value quickly and encourages a click or purchase. **When a finished visual is requested, the Agent must carry out planning, image generation, layout, export, and inspection, and deliver an actual image file. Do not make hand drawing or user-operated layout a required production step.** The user supplies materials and evaluates the result. Do not default to the course example's brand, price, canvas, or language versions.
+Deliver an actual visual. The Agent performs design, image generation/editing, export and inspection; the user supplies materials and feedback. Follow the user's chosen language, quantity, route and constraints instead of inheriting an example's brand, price, aspect or bilingual deliverables.
 
-## 1. Establish scope and inputs
+Current user preference: avoid a full-width bottom text strip unless functionally necessary; prefer an edge-to-edge photographic/scene background with text in quiet areas. A small CTA button is not a full-width strip. Allow exceptions for a genuine communication/readability need, not template convenience. Human hierarchy is a reference-interpretation requirement: avoid a complete person unless necessary; use relevant cropped hands/actions, keeping the product dominant. Face size, sharpness, gaze and human area must not steal the product's focus. A cropped face in a reference does not require an enlarged portrait. Adapt only when the task explicitly calls for a person-led visual.
 
-First identify whether the user needs **planning, production, or review of an existing visual**. Record the audience, placement, communication goal, product and brand, product or packaging photos, logo and brand rules, substantiated selling points, mandatory copy, price and campaign terms, language, canvas specifications, and delivery format. Mark each item as confirmed, needing confirmation, or open to design judgment.
+## Establish the task and facts
 
-Product identity and a communication goal are the minimum inputs for planning. A finished visual faithful to a real product also needs trustworthy product imagery or assets sufficient to depict it accurately. Ask focused questions if missing information would change the main benefit, product appearance, mandatory copy, or canvas. State reasonable assumptions for other gaps and continue. Never guess prices, dates, discounts, performance claims, certifications, sales figures, reviews, or platform rules. Unsupported content must not appear in the final visual.
+Design human cropping together with camera angle and action. Check viewer/product/operator positions, arm origins, gaze or operating target, and support. Do not keep a frontal camera-holding view that implies a photographer behind the product and simply erase their head/body. Retain necessary partial context with subordinate hierarchy, or redesign the viewpoint/product composition; avoid disembodied hands and an action missing its operator. The failed face-removal example concerns spatial logic, not a universal ban on cropped hands or people.
 
-If the user names a platform and asks for current platform compliance, check its latest official requirements before deciding size or content restrictions. If verification is unavailable, mark the rule unverified; do not present an example specification or old convention as a current rule.
+Identify whether this is a promotion-led homepage hero, brand KV, listing lead image, usage scene or detail module. These tasks have different information needs. State reasonable assumptions and continue; ask only when missing material changes identity, mandatory copy or core value.
 
-## 2. Derive the main message from evidence
+Extract `audience/situation → main reason to care → source evidence → visible cue → exact copy/terms`. Separate supplied facts, visible product facts, design inferences and unknowns. References are design evidence, not product specifications. Never invent price, dates, performance, certification, rankings, gifts or accessories. Generated effects and scenes do not prove performance; actual demonstrations require traceable assets, and creative demonstrations must be clearly labeled. Check current official platform rules only when the user requests compliance; a sample image does not establish those rules.
 
-Write a short brief: `who sees it → where they see it → what they must understand immediately → what action is intended`. Make a fact list that ties every proposed selling point to user materials, packaging, a manual, or another traceable source. Separate objective facts, copy choices, and unsupported ideas.
+Record silhouette, color, pattern, structure, marks, lettering, quantity and accessories. Default to strict fidelity unless the user permits variation. Use authentic layers when source-pixel preservation matters; never promise pixel identity after unified generation. Use source logos, not newly generated approximations. When no logo exists, use supplied brand text or report the gap.
 
-Choose **one primary purchase reason** from supported candidates. Judge its relevance to the audience, speed of comprehension in a visual, strength of evidence, and ability to distinguish the product. Keep only a few supporting points when needed. Do not give every specification equal prominence. When translating a technical feature into a customer benefit, keep the underlying specification accurate and do not overstate what it proves.
+## Choose from observed reference mechanisms
 
-**Before composition, document a mapping from audience → situation → theme promise → visible evidence.** For each target group, state where they encounter or use the product, the need relevant to the communication goal (mark it as a design hypothesis if no audience research supports it), which supplied product fact addresses that need, and which visible elements will communicate the situation and benefit. Support the core theme with at least two concrete cues from the product, usage context, or composition. A headline repeating the theme or seasonal colors alone do not count. Do not turn a theme such as “travel light” into an unsupported claim about product weight, size, or performance.
+When references or quality feedback are supplied, read the bilingual [local reference atlas](references/local-reference-atlas.md), select a small relevant subset from the [53-image index](references/local-reference-index.json), and actually open the images. If files are unavailable, record the gap without claiming inspection. Product photos establish identity; finished ads establish composition, material or typography benchmarks. Public method research is available in [source mechanisms](references/researched-layouts.md) when relevant.
 
-Run a **scene countercheck**: hide the headline, benefits, and offer. Can a viewer still connect the scene to the specified audience situation? If the background would serve any brand's seasonal promotion equally well, revise the scene or composition. This checks the design's expression; it is not a substitute for user research.
+Record `reference ID/role → observed relationship → task fit → actual prompt/edit decision → content not copied`. The user explicitly classifies current files in `不应该的图片` and `像电商首页的图片-文字量大元素多` as negative and all other folders as positive. Select by the index `polarity`: positive images establish quality/style benchmarks; negative images are for diagnosis only, never desirable style inputs. Reconcile moved files before selection; historical ID prefixes do not determine polarity. Do not copy brands, numbers, badges or unrelated props; brand marks on a sample do not verify official provenance or effectiveness.
 
-Set the content order: product and brand → headline or main benefit → essential proof or supporting point → price and campaign conditions if required → call to action if appropriate. If the composition is crowded at target size, remove optional copy before shrinking everything. Do not conceal required terms for the sake of the layout.
+Choose or combine material detail, human action, lifestyle, conceptual space, graphics/parameters and promotion groups. The product or relevant core benefit must be prominent. Large headings, custom letterforms, strong offers, flat graphic fields and rich information can work; do not prescribe minimalism, soft light, small text, or saturated promotions universally. Product, words and environment must relate rather than confining the product to a detached sidebar. Conceptual suspension can be credible without ground contact.
 
-## 3. Create an executable visual direction
+For open directions where finish matters, compare a few candidates with different expressive mechanisms. With a chosen direction, develop it or compare internal variations, without mandatory redundant generations. Hiding the heading should still reveal the product/context; hiding the product should reveal whether the type actually conveys the campaign's tone. Color swaps alone are not alternative concepts.
 
-If the user has not chosen a direction, propose two options that differ in **how they communicate**, such as a material-detail approach versus a use-context approach, rather than only changing the palette. For each, explain the first focal point, product treatment, composition and whitespace, color and light, copy placement, relationship to the brand, and support for the main purchase reason. Select one using the goal, asset quality, and brand constraints; record why. Develop an already chosen direction directly.
+## Treat typography as artwork
 
-Before production, write a compact execution specification covering:
+Read [generative typography](references/generative-typography.md) to select the route. For typography quality feedback, read the [observed type study](references/typography-reference-study.md) and open suitable T1/A1 originals. Before generating, specify glyph contrast/width/terminals, line rhythm, product relation and supporting hierarchy; “beautiful custom type” is insufficient. Keep good scene/material work and refine type locally. Unified AI generation and three equal icon badges do not guarantee design quality. **Consider generating headings, price letterforms, benefit symbols, stickers, buttons and related decoration with the full image.** Exact wording remains mandatory; editable system-font overlays are not the universal default.
 
-| Item | Decisions to record |
-| --- | --- |
-| Product fidelity | Silhouette, colors, material, packaging text, logo placement, construction, and accessories that must not change |
-| Composition | Aspect, product position and scale, angle, reading order, safe margins, and whitespace |
-| Information hierarchy | Locations of headline, supporting copy, price, and conditions; content to omit |
-| Visual language | Palette, type direction, background, props, lighting, and relationship to the brand |
-| Production method | Source assets, elements that may be generated, and how text and numbers will be corrected |
+Let the image model coordinate space, light, product, letterforms and offer groups. Include identity invariants and exact copy in the prompt, assigning identity, composition, light and type roles to inputs. Retain generated type that is correct and visually effective; do not erase its character merely to make it editable.
 
-## 4. Have the Agent produce and record decisions
+| Route | When appropriate | Inspection |
+|---|---|---|
+| Unified image generation/editing | Strong coordination of scene, artwork and words | Every product detail and every required word |
+| Authentic product + generated scene/type | Strict packaging, pattern or logo fidelity with suitable source assets | Product zone, text zone, edge/light/perspective/support integration |
+| Generated headline/price layers + composition | Expressive lettering with controlled identity | Transparent edges, style and intentional overlaps |
+| Local deterministic corrections | Text/terms/logo errors that generation cannot resolve, or editable delivery requested | Matching weight, texture, perspective and backdrop instead of a plain-font patch |
 
-The Agent selects an available production path and executes it through final export. Use an image generation tool for background, atmosphere, props, or suitable visual elements; keep authentic product imagery and the logo as fidelity references. Then use an Agent-operable graphics tool or code (such as SVG, HTML/CSS, Canvas, or an image composition library) to place the product, headline, benefits, price, and campaign terms and export the requested image format. The tools may vary, but the teammate must not be asked to perform the layout manually. If the Agent can operate design software, the Agent should do the edits there.
+Mix routes as needed. Let the communication goal determine hierarchy; do not give every benefit equal prominence. Mandatory conditions must remain readable. Use the optional [layout helper](references/layout-contract.md) for precision or corrections, not as a universal poster template.
 
-Keep the product visually central. At the actual placement size or approximate mobile viewing size, the product, main message, and essential price information should remain recognizable. Generate and lay out important words and numbers as editable text where possible instead of relying on an image model to spell them inside the picture. Compare the product, logo, packaging text, and promotional details against source materials. If generation changes the product structure or text, the Agent should recompose or revise using trustworthy assets. Do not add features, accessories, or specifications the real product lacks.
+## Refine and inspect actual exports
 
-Inspect the visible content bounds before composition. A transparent product image may include a large low-opacity shadow or empty margin; positioning by the whole image box can make the product too small or leave it floating. Size and align the opaque product body with the scene's supporting surface, light direction, and shadow. Tell the image generator to leave out products, logos, readable text, and prices, and reserve low-detail areas for the headline, benefits, and offer. If background detail still interferes with copy, use a smoothly faded veil or local whitespace rather than a visibly hard-edged mask. Measure line widths and wrapping separately for each language; do not force translated copy into fixed boxes copied from another language.
+Use [production contracts](references/production-playbook.md) for complete tasks and [art direction](references/art-direction.md) for quality development. Save the baseline, prompts and concrete changes. Repair local issues without discarding good composition. A single ellipse is not a substitute for all support points, and unchanged source pixels do not excuse a pasted-on appearance.
 
-Save a reproducible source file or generation script, along with source assets, major prompts, Agent revisions, and the evidence behind each marketing fact. The record should let a teammate review the outcome from the same inputs.
+Inspect at full size and the intended placement/mobile size:
 
-## 5. Check, revise, and check again
+1. Identity and facts: verify construction, pattern, marks, names, heading, benefits, numbers, currency, dates, CTA and terms against the source. Verify actual size, format, language and count. Unresolved identity/factual errors must remain concept or incomplete work, not a claimed production pass.
+2. Communication: identify product, reason to care and next action. Promotions need a clear offer/conditions/action group; brand art does not automatically need price or CTA. Benefit lists and icons need deliberate relationships, not three generic bullets.
+3. Space and material: realistic work needs coherent light, color, reflections, perspective, edges, depth and support/hand contacts. Conceptual suspension needs consistent space/shadows; graphic work needs coherent shape, overlap and grid.
+4. Finish: typography relates to product direction and brand; decoration serves theme, direction, grouping or material. Product remains prominent and information groups do not all compete to lead. More whitespace or less saturation is not automatically better.
 
-First check **delivery blockers**: product appearance or logo conflicts with sources; a price, date, discount, specification, or claim is unsupported or wrong; mandatory campaign conditions are missing; copy is unreadable or cropped; dimensions, format, or language differ from the brief. Correct any blocker before delivery.
+Compare concrete mechanisms with references. Correct dimensions and copy do not establish visual quality. Do not claim conversion gains without measurements. Locate the actual cause of an overprocessed image and correct it while retaining useful visual tension.
 
-The Agent must open or render the exported image and inspect it at full size and approximate mobile viewing size. When it finds a problem, it revises the source and exports again until delivery blockers are resolved. Then check communication quality: after a brief glance, can a viewer say what the product is, why it merits attention, and what to do next? Is the first focal point clear? Does the main benefit lead supporting details? Do background and decoration distract from the product? Is the brand tone consistent? A teammate may act as an independent viewer; the Agent iterates on that feedback. Record the misunderstanding, revision, and result. Without actual measurements, evaluate legibility and communication clarity rather than claiming improved click-through or conversion.
+## Deliver
 
-Check the product name, benefits, price, dates, and call to action against the supplied copy word for word. Any added decorative eyebrow must be supported by the brief and must not imply an unconfirmed discount or feature. Inspect the final exported file, not only the composition source.
-Check horizontal and vertical alignment of copy inside buttons and offer panels against actual glyph bounds, then inspect it again at mobile size. Fixed top-left text coordinates can make a label appear off-center.
-
-## 6. Deliver
-
-For a production task, deliver the Agent-generated final visual and reproducible source file or script. Add a concise note covering the brief, primary purchase reason and evidence, selected direction, actual size and format, asset sources, generation and composition tools used, checks and revisions, and remaining questions. Deliver only a concept when the user explicitly requests a planning stage. If the environment genuinely cannot generate an image, report the specific missing capability and preserve completed work; do not turn a production task into instructions for the user to finish manually.
+Deliver the real image, actual dimensions, reproducibility materials and concise review. For unified generation, retain inputs, prompts, edit history and originals; do not fabricate editable layers. For composition, include source/configuration. Report full-size and small-size checks, repairs, evidence sources and remaining gaps. Reference study improves current design instructions; it does not train model weights.
