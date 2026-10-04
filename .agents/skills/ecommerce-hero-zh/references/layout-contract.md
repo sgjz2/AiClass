@@ -1,55 +1,58 @@
-# 可复用排版工具
+# 精确排版工具约定
 
-Optional precision helper / 可选精确工具：本文件用于合成、局部错字或精确交付，不要求所有文字用系统字体后排。正确且有效的生成字形应保留；需要修字时匹配原字形、纹理和底纹。主制作路径见 [文字与装饰生成](generative-typography.md)。
+用途：说明 `scripts/render_poster.py` 的真实输入和输出。仅在使用该脚本合成图层、精确修字或交付固定尺寸时读取。
 
+## 运行
 
-构图决定先按 [有来源的排版机制](researched-layouts.md) 确定。工具只实现位置与文本，不能自动产生专业视觉。参考方法要求检查信息块碰撞、安全边界和有意叠压；脚本尚无碰撞检测，Agent 需对照实际字形报告与导出图复查。
-
-环境：Python 3、Pillow、项目有权使用的字体。工具不调用生图接口。生成或编辑照片仍由 Agent 调用真实图像工具。
+需要 Python 3、Pillow 和项目可使用的字体。该工具合成已有资产；图像生成与编辑使用对应图像工具。
 
 ```text
 python scripts/render_poster.py --config layout.json --output poster.png
 ```
 
-可用 `--font-dir <目录>` 以配置中的字体文件名在指定目录寻找字体；不打包或假设其他电脑有当前机器的字体。
+`--font-dir <目录>` 可按配置里的字体文件名在指定目录查找字体。配置中的其他相对路径以配置文件目录为基准。
 
-## 根配置
+## 配置与图层
 
-- `size: [宽,高]`；`canvas_fill` 可选。
-- `background` 可选，路径按配置文件所在目录解析。宽高比偏差超过 2% 时需明确 `background_box: [x,y,w,h]` 才裁切，防止无意裁掉主体。
-- `crop_position: [水平,垂直]` 范围 0–1，默认居中。照片区内等比覆盖；Agent 必须复查实际裁切。
-- `layers` 按从后到前执行，后面的商品层可以压住先排的大字。明确设计允许的叠压，复查没有遮住必需文字或标识。
-- `required_copy` 可选，列出所有必用字符串；允许排版换行与空格变化，其余内容仍需人工式逐字核对。
+| 字段 | 约定 |
+|---|---|
+| `size` | `[宽,高]`，正整数 |
+| `canvas_fill` | 可选画布底色 |
+| `background` | 可选背景路径；等比覆盖画布 |
+| `background_box` | 可选 `[x,y,w,h]`，指定背景区并明确允许裁切；背景与画布比例差超过 2% 时必须声明 |
+| `crop_position` | `[水平,垂直]`，0–1，默认居中，控制背景裁切位置 |
+| `layers` | 从后到前执行的图层数组 |
+| `required_copy` | 可选必用字符串列表，检查忽略空白的字符串存在性 |
+| `mobile_width` | 可选缩略图宽度，默认 360 |
 
-## 图层
+图层使用唯一 `id`、`type` 和 `box: [x,y,w,h]`。所有框均在画布内。
 
-每层有唯一 `id`、`type` 和 `box: [x,y,w,h]`，边界越界报错。
+| 类型 | 输入 | 行为 |
+|---|---|---|
+| `text`（默认） | `text`、`font`、`size`、`min_size`、`fill` | 按实际字形边界排字，适配到最小字号，仍放不下时报错 |
+| `image` | `path`，可选像素坐标 `crop: [左,上,右,下]` | 保留透明度，等比完整放入框 |
+| `rect` | `fill`、`radius` | 绘制色块或圆角区 |
 
-| 类型 | 关键配置 | 用途 |
-| --- | --- | --- |
-| text（默认） | text、font、size、min_size、fill | 标题、卖点、价格、CTA |
-| image | path，可选 crop: [左,上,右,下] | 原商品/Logo；等比完整放入 box，保留 alpha |
-| rect | fill、radius | 设计有理由的信息区或底板 |
+文字支持显式 `\n` 换行、`line_gap` 行间增量、`tracking` 字符间增量，以及 `align: left|center|right`、`valign: top|center|bottom`。非零 `tracking` 逐字定位，复杂文字塑形宜使用默认 0 并检查输出。可选 `panel: {fill,radius,padding}` 提供底板，内边距参与字号适配。
 
-文字支持 `\n` 显式换行、`line_gap`（行间增量像素）、`tracking`（字符间增量像素）；字距不为 0 时逐字布局，不能假定适合复杂文字塑形。默认字距 0 保持整行字体排版。使用 `align: left|center|right` 与 `valign: top|center|bottom` 按实际栅格字形对齐。
+## 组件配置示例
 
-可选 `panel: {fill, radius, padding}` 提供按钮底板，字号适配包含内边距。文字放不下会缩到 min_size；仍放不下就报错，不静默裁切。图层顺序只实现叠压，不验证遮挡是否合理。
-
-## 最小配置例子
+以下仅展示字段，文案、字体、颜色与坐标由实际设计提供。
 
 ```json
 {
-  "size": [1200,1500],
-  "background": "assets/scene.png",
+  "size": [1200, 1500],
+  "background": "scene.png",
   "layers": [
-    {"id":"headline","type":"text","text":"轻装出行\n温度随行","font":"fonts/heading.ttf","box":[65,200,530,230],"size":96,"min_size":82,"line_gap":12,"tracking":0,"fill":"#203E2B"},
-    {"id":"logo","type":"image","path":"assets/logo.png","box":[65,60,55,45]},
-    {"id":"cta","type":"text","text":"立即选购","font":"fonts/body.ttf","box":[800,1350,330,80],"size":30,"min_size":26,"fill":"#F6F4E9","align":"center","valign":"center","panel":{"fill":"#203E2B","radius":40,"padding":14}}
+    {"id":"headline","type":"text","text":"本次标题","font":"fonts/heading.ttf","box":[60,80,800,200],"size":80,"min_size":60,"fill":"#202020"},
+    {"id":"product","type":"image","path":"product.png","box":[100,400,1000,1000]}
   ],
-  "required_copy": ["轻装出行","温度随行","立即选购"]
+  "required_copy": ["本次标题"]
 }
 ```
 
-这里只示范组件，字体与图片路径由实际项目提供；完整海报仍需品牌、产品名、卖点、价格/条件等本次必需内容。项目实际验证配置见 `tests/hero-skill-components/nori-layout.json`。
+## 输出与人工复查
 
-输出：PNG、`*-mobile.png`、`*.render.json`（实际字形边界、字号、图层顺序与来源哈希）。报告不能证明商品结构正确、像素一致、无不合理遮挡、对比度达标或营销有效；这些需要打开成品复查。
+输出海报 PNG、`*-mobile.png` 和 `*.render.json`，记录实际字形边界、字号、图层顺序与图像来源哈希。
+
+脚本检查画布边界、文字适配与必用字符串存在性；图层碰撞、遮挡、裁切内容、语义准确和视觉品质通过[成片验收](production.md#验收与交付)检查。

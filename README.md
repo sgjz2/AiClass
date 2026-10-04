@@ -7,7 +7,7 @@
 1. 完整的[中文版 Skill](.agents/skills/ecommerce-hero-zh/SKILL.md)和[英文版 Skill](.agents/skills/ecommerce-hero-en/SKILL.md)。
 2. 使用课程统一 LaTeX 模板撰写的测试报告。模板和统一测试任务发布后补入 `report/`。
 
-当前版本为 **v4（2026-10-03）**，重点改进整体生成中的文字、装饰与商品关系，并已用相机、鞋、吹风机和玫瑰花案例试跑。见[版本说明、安装方式与验证限制](docs/hero-skill-v4-release.md)，或下载 [v4 源码包](deliverables/ecommerce-hero-skills-v4-20261003-source.zip)。原参考图库与案例成片保留在本地，仓库提供研究与索引，使用时须接入可访问的图片。
+Skill 使用职责明确的参考文档组织构思、文字、渲染、制作与验收；两个入口均列明文件用途和读取时机。参考图库与案例素材保留在本地，可按需接入可访问的图片。
 
 制作任务应由 AI Agent 按 Skill 完成生图、排版、导出和检查；组员提供资料并评估结果，不以手工绘制代替 Agent 的产出。课程提供的保温杯案例仅供参考，其中的品牌、尺寸、价格、画幅比例等不作为通用硬性要求。
 
