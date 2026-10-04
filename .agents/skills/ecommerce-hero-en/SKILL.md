@@ -52,14 +52,14 @@ Develop type, ornament, product and space together. Use [unified judgment](refer
 
 ## Refine and inspect actual exports
 
-Use [production contracts](references/production-playbook.md) for complete tasks and [art direction](references/art-direction.md) for quality development. Save the baseline, prompts and concrete changes. Repair local issues without discarding good composition. A single ellipse is not a substitute for all support points, and unchanged source pixels do not excuse a pasted-on appearance.
+Use [production contracts](references/production-playbook.md) for complete tasks and [art direction](references/art-direction.md) for quality development. For render development, pasted-on integration or overprocessed surfaces, read [light and material judgment](references/render-and-material.md); inspect highlight hierarchy, material distinction and detail strength without imposing low gloss, soft light or desaturation. Save the baseline, prompts and concrete changes. Repair local issues without discarding good composition. A single ellipse is not a substitute for all support points, and unchanged source pixels do not excuse a pasted-on appearance.
 
 Inspect at full size and the intended placement/mobile size:
 
 1. Identity and facts: verify construction, pattern, marks, names, heading, benefits, numbers, currency, dates, CTA and terms against the source. Verify actual size, format, language and count. Unresolved identity/factual errors must remain concept or incomplete work, not a claimed production pass.
 2. Communication: identify product, reason to care and next action. Promotions need a clear offer/conditions/action group; brand art does not automatically need price or CTA. Benefit lists and icons need deliberate relationships, not three generic bullets.
 3. Space and material: realistic work needs coherent light, color, reflections, perspective, edges, depth and support/hand contacts. Conceptual suspension needs consistent space/shadows; graphic work needs coherent shape, overlap and grid.
-4. Finish: typography relates to product direction and brand; decoration may simply provide mood, beauty or rhythm, judged by overall coherence without a required informational role. Product remains prominent and information groups do not all compete to lead. More whitespace or less saturation is not automatically better.
+4. Finish: typography relates to product direction and brand; decoration may simply provide mood, beauty or rhythm, judged by overall coherence without a required informational role. Product remains prominent and information groups do not all compete to lead. More whitespace or less saturation is not automatically better. Inspect actual volume, highlight hierarchy, material distinction and texture strength; correct copy/facts do not establish visual finish.
 
 Compare concrete mechanisms with references. Correct dimensions and copy do not establish visual quality. Do not claim conversion gains without measurements. Locate the actual cause of an overprocessed image and correct it while retaining useful visual tension.
 
