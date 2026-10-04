@@ -9,6 +9,8 @@ Deliver an actual visual. The Agent performs design, image generation/editing, e
 
 Current user preference: avoid a full-width bottom text strip unless functionally necessary; prefer an edge-to-edge photographic/scene background with text in quiet areas. A small CTA button is not a full-width strip. Allow exceptions for a genuine communication/readability need, not template convenience. Human hierarchy is a reference-interpretation requirement: avoid a complete person unless necessary; use relevant cropped hands/actions, keeping the product dominant. Face size, sharpness, gaze and human area must not steal the product's focus. A cropped face in a reference does not require an enlarged portrait. Adapt only when the task explicitly calls for a person-led visual.
 
+Current product-led preference: the product should be visibly larger than the full headline group and remain the primary visual subject; size and inspect according to [unified type rules](references/typography-and-ornament.md).
+
 ## Establish the task and facts
 
 Design human cropping together with camera angle and action. Check viewer/product/operator positions, arm origins, gaze or operating target, and support. Do not keep a frontal camera-holding view that implies a photographer behind the product and simply erase their head/body. Retain necessary partial context with subordinate hierarchy, or redesign the viewpoint/product composition; avoid disembodied hands and an action missing its operator. The failed face-removal example concerns spatial logic, not a universal ban on cropped hands or people.
@@ -18,6 +20,8 @@ Identify whether this is a promotion-led homepage hero, brand KV, listing lead i
 Extract `audience/situation → main reason to care → source evidence → visible cue → exact copy/terms`. Separate supplied facts, visible product facts, design inferences and unknowns. References are design evidence, not product specifications. Never invent price, dates, performance, certification, rankings, gifts or accessories. Generated effects and scenes do not prove performance; actual demonstrations require traceable assets, and creative demonstrations must be clearly labeled. Check current official platform rules only when the user requests compliance; a sample image does not establish those rules.
 
 Record silhouette, color, pattern, structure, marks, lettering, quantity and accessories. Default to strict fidelity unless the user permits variation. Use authentic layers when source-pixel preservation matters; never promise pixel identity after unified generation. Use source logos, not newly generated approximations. When no logo exists, use supplied brand text or report the gap.
+
+Placement, composition and viewpoint may change; this does not authorize adding construction absent from the image and unconfirmed by the materials or user. Separate visible parts, confirmed parts and unknown regions. Keep unknown regions occluded or choose a view that does not expose them. Do not invent stems, ports, bases, supports or accessories because similar products usually have them or the scene needs them: a rose-head-only source does not authorize new stems for a vase. Request additional product views when necessary or retain authentic product pixels. Scene props may be designed for the brief but must not become new product construction or imply included goods.
 
 ## Choose from observed reference mechanisms
 
@@ -43,6 +47,8 @@ Let the image model coordinate space, light, product, letterforms and offer grou
 | Local deterministic corrections | Text/terms/logo errors that generation cannot resolve, or editable delivery requested | Matching weight, texture, perspective and backdrop instead of a plain-font patch |
 
 Mix routes as needed. Let the communication goal determine hierarchy; do not give every benefit equal prominence. Mandatory conditions must remain readable. Use the optional [layout helper](references/layout-contract.md) for precision or corrections, not as a universal poster template.
+
+Design complete headline groups, ornament and product as one coherent composition. Use [unified type and ornament](references/typography-and-ornament.md) to judge hierarchy, shape language, placement and factual boundaries; do not turn individual examples into mandatory line styles. Atmosphere is legitimate, and truthful product construction remains mandatory.
 
 ## Refine and inspect actual exports
 

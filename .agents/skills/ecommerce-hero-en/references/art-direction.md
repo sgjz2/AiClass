@@ -2,7 +2,7 @@
 
 Describe a visible relationship rather than adjectives: which action, scale, spatial, material or letterform relationship communicates which evidenced main message? Inspect real references by role: identity, composition, light, type/decoration or commercial groups. Transfer mechanisms across categories without copying claims or props. Respect the user’s explicit positive/negative labels in the index; an isolated useful mechanism cannot turn a negative image into a quality benchmark.
 
-Specify product scale, camera angle, overlap, reading path and support/conceptual suspension; key light and material response; letterform character and relationship to product direction; main/supporting/transaction groups and terms; the role of each decoration. Rich information can be organized. Many equally strong focal points require restructuring. Gentle light and small type are not universal defaults.
+Specify product scale, camera angle, overlap, reading path and support/conceptual suspension; key light and material response; letterform character and relationship to product direction; main/supporting/transaction groups and terms; the integrated type/ornament relationship using [unified rules](typography-and-ornament.md), including atmosphere and beauty as legitimate roles. Rich information can be organized. Many equally strong focal points require restructuring. Gentle light and small type are not universal defaults.
 
 Examples from the atlas: G5-04 uses a strong offer heading while products remain identifiable; G6-04 demonstrates an action; G7-07 separates dark material through light and mesh; G2-06 uses large type and shoe overlap in a graphic environment. Select mechanisms instead of stacking effects.
 
