@@ -2,9 +2,9 @@
 
 Record the actual placement, audience, identity constraints, main message and evidence, exact copy/terms, language/count and dimensions. Select and open a small coherent subset of local references. Connect reference IDs to observed mechanisms, prompt decisions and excluded content; records do not substitute for viewing.
 
-Plan the complete product/scene/type relationship before choosing unified generation, authentic product composition or generated lettering/decoration layers. Follow [generative typography](generative-typography.md). Expressive type may join the product as the leading visual group. Graphic environments, prominent headings, strong promotions and credible conceptual suspension are valid routes; pale photography is not universal.
+Plan the complete product/scene/type relationship before choosing unified generation, authentic product composition or generated lettering/decoration layers. Follow [generative typography](generative-typography.md). Expressive type may compose with the product while retaining its character; this project defaults to product dominance, assessed through [unified judgment](typography-and-ornament.md). Graphic environments, prominent headings, strong promotions and credible conceptual suspension are valid routes; pale photography is not universal.
 
-Include identity invariants, input roles, exact words/terms and concrete light/type/grouping decisions. Only a background-only route excludes all text; a scene-plus-generated-copy route must include it. Size authentic layers by visible content rather than transparent margins, matching angle and lighting. References do not authorize gifts, accessories, numbers or claims.
+Include identity invariants, input roles, exact words/terms and key lighting and composition relationships, leaving type and ornament choices open under [unified judgment](typography-and-ornament.md); fix user-selected treatments and necessary concept decisions. Only a background-only route excludes all text; a scene-plus-generated-copy route must include it. Size authentic layers by visible content rather than transparent margins, matching angle and lighting. References do not authorize gifts, accessories, numbers or claims.
 
 For realistic work, inspect every support point, perspective, light, reflections, edges, depth and foreground occlusion. For conceptual work, inspect its own spatial rules. A single ellipse or unchanged source pixels do not establish integration. Change scene/source or edit locally if necessary; do not hide bad integration with text.
 
@@ -19,4 +19,4 @@ Deliver real artwork, actual specifications, inputs/prompts/edit history, baseli
 
 ## 文字设计落实 / Typography implementation
 
-文字反馈按[文字研究](typography-reference-study.md)写可见字形和组合意图，再制作。导出复查同时检查准确全文和意图是否落实：轻重、宽窄、行距、关键词/商品关系及次层组织。场景有效而字平庸时，保留基线局部修字。参考底带、品牌、额外句和生成细节不自动迁移。Inspect actual typography, not just spelling; do not claim improvement without a new inspected output.
+文字反馈按[文字研究](typography-reference-study.md)提取适用关系，不把观察变成逐项固定动作。导出复查准确全文、主题表达、阅读节奏与整体协调；成立的替代表达可以保留，具体用户要求仍须满足。场景有效而字平庸时，保留基线局部修字。参考底带、品牌、额外句和生成细节不自动迁移。Inspect actual typography, not just spelling; do not claim improvement without a new inspected output.

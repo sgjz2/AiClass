@@ -25,7 +25,7 @@ Placement, composition and viewpoint may change; this does not authorize adding 
 
 ## Choose from observed reference mechanisms
 
-When references or quality feedback are supplied, read the bilingual [local reference atlas](references/local-reference-atlas.md), select a small relevant subset from the [53-image index](references/local-reference-index.json), and actually open the images. If files are unavailable, record the gap without claiming inspection. Product photos establish identity; finished ads establish composition, material or typography benchmarks. Public method research is available in [source mechanisms](references/researched-layouts.md) when relevant.
+When references or quality feedback are supplied, read the bilingual [local reference atlas](references/local-reference-atlas.md), select a small relevant subset from the [55-image index](references/local-reference-index.json), and actually open the images. If files are unavailable, record the gap without claiming inspection. Product photos establish identity; finished ads establish composition, material or typography benchmarks. Public method research is available in [source mechanisms](references/researched-layouts.md) when relevant.
 
 Record `reference ID/role → observed relationship → task fit → actual prompt/edit decision → content not copied`. The user explicitly classifies current files in `不应该的图片` and `像电商首页的图片-文字量大元素多` as negative and all other folders as positive. Select by the index `polarity`: positive images establish quality/style benchmarks; negative images are for diagnosis only, never desirable style inputs. Reconcile moved files before selection; historical ID prefixes do not determine polarity. Do not copy brands, numbers, badges or unrelated props; brand marks on a sample do not verify official provenance or effectiveness.
 
@@ -35,7 +35,7 @@ For open directions where finish matters, compare a few candidates with differen
 
 ## Treat typography as artwork
 
-Read [generative typography](references/generative-typography.md) to select the route. For typography quality feedback, read the [observed type study](references/typography-reference-study.md) and open suitable T1/A1 originals. Before generating, specify glyph contrast/width/terminals, line rhythm, product relation and supporting hierarchy; “beautiful custom type” is insufficient. Keep good scene/material work and refine type locally. Unified AI generation and three equal icon badges do not guarantee design quality. **Consider generating headings, price letterforms, benefit symbols, stickers, buttons and related decoration with the full image.** Exact wording remains mandatory; editable system-font overlays are not the universal default.
+Read [generative typography](references/generative-typography.md) to select the route. For typography quality feedback, read the [observed type study](references/typography-reference-study.md) and open suitable T1/A1 originals. Prompt the theme, exact copy and key composition relationships, leaving lettering, emphasis, arrangement and ornament room to develop under the [unified judgment](references/typography-and-ornament.md); generic praise alone does not define a direction. Keep good scene/material work and refine type locally. Unified AI generation and three equal icon badges do not guarantee design quality. **Consider generating headings, price letterforms, benefit symbols, stickers, buttons and related decoration with the full image.** Exact wording remains mandatory; editable system-font overlays are not the universal default.
 
 Let the image model coordinate space, light, product, letterforms and offer groups. Include identity invariants and exact copy in the prompt, assigning identity, composition, light and type roles to inputs. Retain generated type that is correct and visually effective; do not erase its character merely to make it editable.
 
@@ -48,7 +48,7 @@ Let the image model coordinate space, light, product, letterforms and offer grou
 
 Mix routes as needed. Let the communication goal determine hierarchy; do not give every benefit equal prominence. Mandatory conditions must remain readable. Use the optional [layout helper](references/layout-contract.md) for precision or corrections, not as a universal poster template.
 
-Design complete headline groups, ornament and product as one coherent composition. Use [unified type and ornament](references/typography-and-ornament.md) to judge hierarchy, shape language, placement and factual boundaries; do not turn individual examples into mandatory line styles. Atmosphere is legitimate, and truthful product construction remains mandatory.
+Develop type, ornament, product and space together. Use [unified judgment](references/typography-and-ornament.md) to assess product dominance, natural reading and coherence. Whole-line contrasts and local emphasis are equally available; mood and beauty are legitimate roles. Write outcome criteria instead of fixed fonts, weight order or line styles, and do not silently narrow them while translating tool prompts. Product construction and required copy remain accurate.
 
 ## Refine and inspect actual exports
 
@@ -59,7 +59,7 @@ Inspect at full size and the intended placement/mobile size:
 1. Identity and facts: verify construction, pattern, marks, names, heading, benefits, numbers, currency, dates, CTA and terms against the source. Verify actual size, format, language and count. Unresolved identity/factual errors must remain concept or incomplete work, not a claimed production pass.
 2. Communication: identify product, reason to care and next action. Promotions need a clear offer/conditions/action group; brand art does not automatically need price or CTA. Benefit lists and icons need deliberate relationships, not three generic bullets.
 3. Space and material: realistic work needs coherent light, color, reflections, perspective, edges, depth and support/hand contacts. Conceptual suspension needs consistent space/shadows; graphic work needs coherent shape, overlap and grid.
-4. Finish: typography relates to product direction and brand; decoration serves theme, direction, grouping or material. Product remains prominent and information groups do not all compete to lead. More whitespace or less saturation is not automatically better.
+4. Finish: typography relates to product direction and brand; decoration may simply provide mood, beauty or rhythm, judged by overall coherence without a required informational role. Product remains prominent and information groups do not all compete to lead. More whitespace or less saturation is not automatically better.
 
 Compare concrete mechanisms with references. Correct dimensions and copy do not establish visual quality. Do not claim conversion gains without measurements. Locate the actual cause of an overprocessed image and correct it while retaining useful visual tension.
 

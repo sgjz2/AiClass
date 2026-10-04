@@ -13,7 +13,7 @@
       "staggered lines",
       "matching offer type"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -34,7 +34,7 @@
       "airy product line",
       "refined price numerals"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -54,7 +54,7 @@
       "heavy-light headline pairing",
       "subordinate benefits"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -74,7 +74,7 @@
       "tight bold lockup",
       "product adjacency"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -783,7 +783,7 @@
       "compact type lockup",
       "serif numeral rhythm"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -804,7 +804,7 @@
       "rotated character",
       "italic aside"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -825,7 +825,7 @@
       "variable scale",
       "curve-aligned text"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -845,7 +845,7 @@
       "light type hierarchy",
       "numeral-letter motif"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -866,7 +866,7 @@
       "oversized punctuation",
       "bilingual rhythm"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
@@ -886,11 +886,53 @@
       "condensed serif numerals",
       "product-type overlap"
     ],
-    "inspection": "individually opened 2026-10-03",
+    "inspection": "individually reopened 2026-10-04",
     "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
     "polarity": "positive",
     "polarity_source": "user classification 2026-10-02, current folders and user-supplied additions 2026-10-03",
     "allowed_use": "observed positive design mechanisms; not product facts, exact copy, fidelity or validated claims",
     "sha256": "993b3553ca18b78420bd4c935a11c65f407deda3c67bc956aa7dc218879c27a6"
+  },
+  {
+    "id": "A1-05",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\2331a4a1ef15617288d24e08f7a96c3d.png",
+    "size": [
+      1200,
+      1500
+    ],
+    "observed_mechanism": "吹风机以轻细上行/厚重下行和宽大括号围合，细弧、端点与附件侧框并存；借组合协调，不固定字重或线型，附件数量、性能和商品结构独立核对。",
+    "typography_mechanisms": [
+      "whole-line contrast",
+      "mixed ornament weights",
+      "open brackets"
+    ],
+    "inspection": "individually opened 2026-10-04",
+    "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
+    "polarity": "positive",
+    "polarity_source": "user classification of all folders outside the two negative folders; current positive-folder additions 2026-10-04",
+    "allowed_use": "positive typography/ornament mechanisms, not product facts, exact copy, fidelity or validated claims",
+    "sha256": "5fafecf2cc3588c70f868bd1c11a2bd1db270a26927965da0c883c37b898b304"
+  },
+  {
+    "id": "A1-06",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\ChatGPT 图像 2026年10月3日 17_03_40.png",
+    "size": [
+      1200,
+      1500
+    ],
+    "observed_mechanism": "玫瑰花以小“把”、红色大“浪漫”和深绿大小词组建立语义节奏，细红曲线承接留白并呼应花朵；借局部强调与整体关系，不固定红字加S线，不迁移价格或未确认花柄。",
+    "typography_mechanisms": [
+      "semantic keyword emphasis",
+      "in-line scale variation",
+      "atmospheric curve"
+    ],
+    "inspection": "individually opened 2026-10-04",
+    "provenance": "user-provided sample; claims, fidelity and provenance not independently verified",
+    "polarity": "positive",
+    "polarity_source": "user classification of all folders outside the two negative folders; current positive-folder additions 2026-10-04",
+    "allowed_use": "positive typography/ornament mechanisms, not product facts, exact copy, fidelity or validated claims",
+    "sha256": "71f60724d8c8b386cf911d2bb679010605c4086318c0e7fcf8f96267765ab155"
   }
 ]
