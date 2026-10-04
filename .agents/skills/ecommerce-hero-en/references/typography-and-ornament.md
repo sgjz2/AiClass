@@ -1,6 +1,8 @@
 # Typography and ornament
 
-Purpose: develop headline forms, copy composition and decorative relationships. Read when generating or refining image text. Use [production and review](production.md) for execution and [reference use](reference-guide.md) for observed examples.
+Purpose: develop headline forms, copy composition and decorative relationships. Read when generating or refining image text. Use [production and review](production.md) for execution and [reference use](reference-guide.md) for library selection.
+
+For optional lettering and ornament examples, see [visual forms](visual-form-reference.md#typography-and-ornament).
 
 ## Express the theme through type
 

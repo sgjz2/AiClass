@@ -2,6 +2,8 @@
 
 Purpose: develop photographic or rendered surfaces and diagnose pasted-on integration, excessive reflections or texture. Read for realistic/dimensional artwork and related refinements.
 
+For optional light and material combinations, see [visual forms](visual-form-reference.md#light-and-material).
+
 ## Describe form with light
 
 Choose key, fill, bounce and tonal distribution from product form and setting. Highlights should describe contour, turning planes and material, with suitable detail in shadows. Soft or hard light, multiple lights, strong reflections and dramatic lighting are valid choices.

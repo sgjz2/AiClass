@@ -25,6 +25,7 @@ Keep aesthetic methods open and product/required facts accurate. Composition pre
 | [render-and-material.md](references/render-and-material.md) | Light, surface response, texture and spatial integration | Developing photographic/rendered work or correcting artificial integration |
 | [production.md](references/production.md) | Evidence, routes, instructions, local correction and acceptance | Producing, refining or reviewing delivery |
 | [reference-guide.md](references/reference-guide.md) | Reference roles, selection and adaptation | Using references or comparative diagnosis |
+| [visual-form-reference.md](references/visual-form-reference.md) | Extracted image forms and optional relationships, grouped by design role | Looking for concrete form options; read the relevant section |
 | [layout-contract.md](references/layout-contract.md) | Optional precision helper's inputs/outputs | Choosing to use that script |
 | [local-reference-index.json](references/local-reference-index.json) | Local paths, labels, observations and hashes | Selecting a few originals through the guide |
 | [render_poster.py](scripts/render_poster.py) | Configuration-based composition of existing assets | Invoking it through the layout contract |

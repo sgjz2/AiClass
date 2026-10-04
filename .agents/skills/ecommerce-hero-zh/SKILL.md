@@ -25,6 +25,7 @@ description: 依据真实商品与营销资料制作、精修或评审单张中�
 | [render-and-material.md](references/render-and-material.md) | 光影、材料响应、纹理与空间融合 | 发展摄影/渲染，处理贴图感或油腻感 |
 | [production.md](references/production.md) | 事实依据、制作路径、指令、局部修正与验收 | 制作、精修或交付检查 |
 | [reference-guide.md](references/reference-guide.md) | 可用参考的角色、选择和迁移方法 | 使用参考或对照诊断 |
+| [visual-form-reference.md](references/visual-form-reference.md) | 图像提取的元素与组合关系，按设计职责分类 | 寻找具体形式时，按需读对应章节 |
 | [layout-contract.md](references/layout-contract.md) | 可选精确排版脚本的输入输出 | 确定使用脚本时 |
 | [local-reference-index.json](references/local-reference-index.json) | 本地图库路径、标签、观察与哈希 | 按参考指南检索少量原图 |
 | [render_poster.py](scripts/render_poster.py) | 已有资产的配置式排版 | 按工具约定调用 |

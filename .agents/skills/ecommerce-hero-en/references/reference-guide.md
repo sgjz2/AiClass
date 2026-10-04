@@ -2,6 +2,8 @@
 
 Purpose: select available references and turn observation into production decisions. Read when references are supplied, library use is permitted, or comparative diagnosis is useful. Routine work may proceed directly from the brief.
 
+For concrete extracted elements and relationships, read [visual form references](visual-form-reference.md). This guide handles selection/use; the form reference provides optional design examples.
+
 ## Library and roles
 
 [local-reference-index.json](local-reference-index.json) is an optional local library index containing image IDs, groups, paths, sizes, observed relationships, polarity and content hashes. Originals belong to the indexed environment; the source package contains the index only. When paths are unavailable, use current supplied assets or design directly.

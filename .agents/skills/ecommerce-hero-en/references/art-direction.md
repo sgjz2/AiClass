@@ -2,6 +2,8 @@
 
 Purpose: develop the overall relationship between product, background, people and information. Read for a new concept or a major composition change. Use [type and ornament](typography-and-ornament.md) and [light and material](render-and-material.md) for their respective details.
 
+See optional [conceptual space](visual-form-reference.md#theme-and-conceptual-space), [people/action](visual-form-reference.md#people-and-action), and [product/information forms](visual-form-reference.md#product-and-information-display).
+
 ## Build a concept for this brief
 
 Choose a direction from the audience, usage situation, main reason to care or brand character. Develop it through product pose, scale, space, color and light. Lifestyle settings, abstract spaces, graphic compositions and conceptual suspension can all work. A background may suggest use or simply provide mood and beauty.
