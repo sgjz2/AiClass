@@ -16,7 +16,9 @@
 
 ## 纹理与色彩有主次
 
-细节应帮助识别商品与材料。按画面尺度、焦点、光照和景深决定纹理的可见程度，让形体的大明暗与局部纹理共同成立。近景可以锐利，背景也可以有细节，但无需把石材颗粒、皮纹、布纤维、镜头刻纹同时推到最强。过硬的微小明暗与均匀锐化会使表面碎、脏或油亮；针对过强区域修正，不以全图模糊掩盖问题。
+细节首先服从形体与观看重点。依据焦点、距离、光照和材质分配纹理对比与锐度，让商品关键结构清楚，次要表面有较平静的明暗；不规定只有某一块清晰，也不强制背景模糊。手柄皮纹、机身颗粒、镜头刻纹或布纤维可以各有程度，不以每处都“超清”衡量品质。保持轮廓、连接件、图案、铭文和需要读取的标记准确，减少不必要的纹理夸张不等于改造或抹掉真实结构。
+
+大图检查重复颗粒、过硬微小明暗、统一锐化和过亮纹理；投放尺寸检查首先看到的是完整形体还是碎亮表面。只针对过强区域调整纹理对比、锐度或照明，必要时重新分配焦点；不能用全图模糊或磨平表面掩盖问题。
 
 高饱和、鲜红、深绿或冷暖对比本身不是油腻。判断颜色、亮度、光泽和纹理是否同时争抢；只降低饱和度或曝光未必改善体积与材质。背景和布景可以有表达，不把商品主导理解成背景必须空白。
 
@@ -46,7 +48,9 @@ Choose key/fill/bounce relationships from product form, scene and concept. Evalu
 
 Base surface responses on the source and confirmed materials. Distinguish highlight shape, width, strength, reflection clarity and texture as appropriate; glossy plastic may remain glossy while rough surfaces retain dispersed light, and glass/metal/fabric show their own visible traits. Similar materials may be similar. Do not impose equal bright outlines everywhere, erase all gloss, or invent wetness/coatings for unknown surfaces. Match authentic product lighting with its environment or, when relighting is allowed, check identity instead of restoring an old cutout mismatch.
 
-Distribute texture by scale, focus, light and depth. Fine detail should support recognizable form, not make every stone grain, grip pore, fiber and lens groove equally intense. Refine excessive local contrast or sharpening where it occurs; global blur is not a repair. Saturated red, deep green or cool/warm contrast is not inherently greasy; evaluate color together with brightness, gloss and texture rather than merely lowering saturation or exposure.
+Make coherent form and viewing priorities lead detail. Distribute texture contrast and sharpness by focus, distance, light and material, allowing quieter secondary surfaces without forcing one sharp patch or blurred backgrounds. Grip texture, body grain, lens grooves and fibers may have different strengths. Preserve silhouette, connections, patterns, lettering and required readable marks; reducing exaggerated texture does not authorize erasing real construction.
+
+At full size, inspect repetitive grain, excessive microcontrast, uniform sharpening and bright texture. At display size, check whether coherent form or fragmented sparkle leads. Refine the affected texture/lighting/focus locally instead of globally blurring or smoothing away evidence. Saturated red, deep green or cool/warm contrast is not inherently greasy; evaluate color together with brightness, gloss and texture rather than merely lowering saturation or exposure.
 
 Inspect relevant references when allowed, transferring light distribution, transitions, material responses and quiet areas instead of just palette/props. Prompt key relationships while leaving other decisions open; selected style may be preserved. Flowing ornament does not automatically require dimensional metallic ribbons, though ribbons remain an option.
 

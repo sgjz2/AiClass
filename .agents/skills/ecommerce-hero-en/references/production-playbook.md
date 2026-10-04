@@ -1,6 +1,6 @@
 # Production, repair and delivery
 
-Record the actual placement, audience, identity constraints, main message and evidence, exact copy/terms, language/count and dimensions. Select and open a small coherent subset of local references. Connect reference IDs to observed mechanisms, prompt decisions and excluded content; records do not substitute for viewing.
+Record the actual placement, audience, identity constraints, main message and evidence, exact copy/terms, language/count and dimensions. Use [visual development](art-direction.md) to develop the task/background relationship and brief-appropriate information hierarchy, distinguish confirmed offers from draft placeholders, and judge selective detail in the actual export. Select and open a small coherent subset of local references. Connect reference IDs to observed mechanisms, prompt decisions and excluded content; records do not substitute for viewing.
 
 Plan the complete product/scene/type relationship before choosing unified generation, authentic product composition or generated lettering/decoration layers. Follow [generative typography](generative-typography.md). Expressive type may compose with the product while retaining its character; this project defaults to product dominance, assessed through [unified judgment](typography-and-ornament.md). Graphic environments, prominent headings, strong promotions and credible conceptual suspension are valid routes; pale photography is not universal.
 

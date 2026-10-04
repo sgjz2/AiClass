@@ -1,31 +1,47 @@
-# 视觉开发与成片精修
+# 视觉开发与成片判断 / Visual development and finishing
 
-先用一句话说明可见关系，而非形容词：哪个动作、尺度、空间、材质或字形关系，让人理解哪个有依据的主信息？选择实际参考看关系，角色可以是身份、构图、光影、文字/装饰或交易组。跨品类提取方法，不照搬道具和宣称；先遵从索引中的用户正负标签，再分析图像关系，局部可用机制不能把负面样本变成品质基准。
+把任务主题、商品、背景、文字和信息组织作为完整构图发展。审美方法开放，商品身份与必用信息有据；通过实际画面判断完成度，不把单张成败变成品类模板。
 
-## 将参考变成决定
+## 从本次主题发展背景
 
-- 构图：商品尺度、机位、前后遮挡、观看动线、支撑或概念悬浮的解释。
-- 光影：主光方向、软硬、明暗分区、最亮位置与材质反射，不要求全部柔光。
-- 字形：倾斜/切角/笔触/立体结构的作用、与商品姿态关系、视觉主次及准确原文。
-- 信息：主主题、少量支持组、交易钩子、限制条件；高信息量不等于杂乱，多个等强焦点才需重组。
-- 文字与装饰：按[统一规则](typography-and-ornament.md)判断自然阅读、整体协调与事实边界，整行对比和局部变化都可成立；氛围和美感可独立成立，不套品类固定装饰。
+从受众、情境、核心关注理由或品牌语气，选择与商品共同成立的空间关系。背景可通过氛围、颜色、光影、形态、尺度或姿态支持主题；生活场景、抽象几何、图形环境和留白都可成立，不要求每个道具都有功能，也不要求把文案逐字画成故事。
 
-参考示例：G5-04标题交易钩子可很强但产品仍识别；G6-04动作解释使用利益；G7-07靠光和网布细节分出黑色材质；G2-06大字与鞋体遮挡说明平面环境也能有效。选择具体机制，不能把所有效果一起使用。
+构思时说明本次选取的关键关系，再确定背景，而不是先默认科技曲面、台座、暮色城市或豪华陈列。曲面、台座和散景不是禁用项；若更换任意商品仍能套用，检查这是有意保持的品牌系列语言，还是缺少本次构思。背景不只提供配色和空位，也不为增加主题感堆场景或未知商品结构。选择与商品同一空间和视觉语气的表达即可，不强迫直白叙事。
 
-## 候选与修正
+有参考时按用户允许范围实际打开，从构图、光影、材质、字形或信息角色提取关系，遵从索引正负标签。不照搬品牌、数字、宣称或不相关道具；参考观察不自动成为固定执行动作。
 
-### 用户指出贴图感或要求渲染品质时
+## 按传播任务组织信息
 
-按[光影与材质整体判断](render-and-material.md)发展渲染：从实际参考提取光线如何交代体积、各材料如何响应，以及亮区和细节的主次；允许强光泽、高饱和和戏剧性光影，不把减少效果当作唯一修法。源图像素须保留时适配环境，允许重打光时核对身份，不能重新覆盖旧抠图制造融合失配。
+依据必用文案、主要关注理由和投放尺寸决定层级：哪些信息吸引关注，哪些支持理解，哪些完成交易。主卖点可以更突出，辅助事实可通过文字组合、分组、局部图形或图标组织；三枚等大图标和均分栏目是可选方案，不是默认，也不要求三条卖点必须人为分出强弱。调整视觉表达而不删除或改写必须保留的内容。
 
-方向开放时比较少量机制不同的小样，方向明确时保留已成立基线。用 [文字与装饰生成](generative-typography.md) 整体发展标题、场景与商品关系，再逐细节查身份和事实。保真严格时保留原商品层，但必须修融合；文字密集不自动意味着无字背景＋系统字体。
+真实价格或优惠在促销任务中可以是强钩子，品牌视觉也可以没有交易区。未确认的价款、日期或条件先核对；非必用未知项不自行添加，正式传播需要的未知项不能伪装成完整事实。用户要求草稿占位时准确保留并标明测试状态，占位默认作次层提示或在交付说明中记录，不用大号价格字形制造未经确认的购买钩子；明确指定占位版式时遵从。并非所有价格都缩小，实际传播重点由简报决定。
 
-“平淡”检查利益关系、字形、商品尺度、材质或交易组；“油腻”按共用规则定位具体光泽、纹理和环境竞争，局部修正并保留有效表达。准确裁切、字形节奏、材料与形体关系都能提供张力。
+## 以完整画面发展细节
 
-修改局部时保留布局、好字形、商品身份与其他准确文案。错字先局部编辑再考虑风格匹配覆盖。涉及整体现象才重构，不反复随机全图重生。
+渲染、材质与细节按[光影与材质判断](render-and-material.md)，文字与装饰按[统一判断](typography-and-ornament.md)发展。商品主导不等于标题无表现力，主体清楚也不等于每处微观纹理都最强。保留准确轮廓、连接、图案和铭文；按焦点、距离、光照与材质控制局部纹理的对比和锐度，先读到形体再适当地发现细节。
 
-## 成片判断
+生图指令明确本次主题关系、准确文案、真实商品边界与关键构图决定，让其他审美选择有发展空间。不用“超清、每处细节、科技高级感”代替关系，也不在规则转译时增加固定字体、线型或通用背景套件。方向未定时可以比较少量不同机制；方向已选时发展其成立部分，不机械增加生成数量。
 
-先排除身份和事实阻断，再评主题、注意力、文字与装饰、交易信息、空间及材质。拟真路线看实际支撑点与影子，概念悬浮看投影、遮挡和空间一致。全尺寸查细节，小尺寸查焦点和可读性；同时按共用规则核对实际亮点主次、材质差异与纹理强度，不能因文案和支撑正确就判渲染通过。品牌KV不强加价格按钮，促销任务不能缺所需条件。
+## 在成片中检查与局部修正
 
-对照实际参考给具体差距，不用“高级感”或自评分代替证据。参见 [负例图谱](local-reference-atlas.md) 的G1三种失败；像素保真不能证明视觉达标，生成氛围不能证明性能。已有相机/鞋试跑是经验，不是受控有无skill对照或转化数据。
+先核对身份、事实和真实输出规格，再在大图与投放/手机图中共同检查：商品是否主导且与环境融合；背景是否支持本次主题或选定语气；必要信息是否准确、可读、有任务合适的层级；光泽、纹理和文字装饰是否形成完整关系。
+
+正确全文和接触阴影不足以证明整体通过；自查与用户评价、受控实验分开记录。检查实际差距，而非只看指令是否写了好听的目标。对成立的替代表达保持开放，没有新图或未打开复查时不宣称已经改善。
+
+针对局部问题保留基线：细节过强时改局部纹理对比、反光或焦点关系，不模糊关键身份；背景通用时重新发展关键空间关系，不加一堆道具；信息平均时重组阅读顺序与间距、尺度和分组，不删必用条件。只有整体构思失效时才重构，不为修一处纹理反复全图重生。
+
+## English operational version
+
+Develop theme, product, background, lettering and information as one composition. Keep aesthetic methods open and identity/required copy evidence-based. Individual examples are observations, not category templates.
+
+Choose the background from audience, situation, reason to care or brand tone. Mood, color, light, shape, scale and product pose may establish a relationship; lifestyle, abstract geometry, graphics or quiet space can all work. Props need not each explain a function, and copy need not become a literal story. Do not default to technological curves, pedestals, city dusk or luxury displays. These forms remain valid choices. A reusable background may be intentional series branding; otherwise assess whether it lacks a task-specific relationship. Do not add clutter or unconfirmed construction merely to make the theme more literal.
+
+When permitted, inspect actual references by role and respect positive/negative labels. Transfer relationships rather than brand claims, numbers or props. Decide information prominence from the brief, audience and display size: attention, supporting understanding and transactions need appropriate roles. Equal icon trios and columns remain options, not defaults; equally important facts need not be artificially ranked. Change presentation without removing or rewriting mandatory copy.
+
+Confirmed prices may be prominent in a promotion; brand art may omit offers. Verify unknown required terms, and do not add unknown optional facts. When the user requests a placeholder draft, retain accurate placeholders and label test status; default to subordinate treatment or accompanying notes rather than treating a large unknown price as a real buying hook. Follow an explicitly chosen placeholder layout. This is not a universal instruction to shrink every price.
+
+Use [light and material judgment](render-and-material.md) for volume, surfaces and detail, and [unified type judgment](typography-and-ornament.md) for expressive lettering and ornament. Product dominance does not require timid text or maximum microdetail everywhere. Preserve silhouette, connections, patterns and marks; distribute local texture contrast/sharpness by focus, distance, light and material so coherent form remains readable.
+
+Prompt the task-specific relationship, exact copy, identity constraints and key composition decisions, leaving other aesthetic choices open. Generic ultra-detail or premium-tech language is not a substitute. Compare a few mechanisms only when useful; retain established good work for local refinements.
+
+Inspect actual full-size and intended-size images for product dominance/integration, theme or selected tone, appropriate readable information hierarchy and coherent light/detail/type relationships. Correct words and contact shadows do not establish complete finish. Refine excessive texture locally without obscuring identity, redevelop generic spatial relationships instead of stacking props, and regroup information without deleting terms. Preserve coherent alternatives. Disclose absent inspection/testing and do not present self-review as user acceptance or controlled effectiveness evidence.
