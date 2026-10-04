@@ -18,7 +18,7 @@ Keep the product the main subject. Its actual visible mass should be clearly lar
 
 Prefer an edge-to-edge scene or graphic background, integrating copy into readable areas. Use a full-width bottom text strip only when communication or legibility calls for it.
 
-Include people when usage benefits from their presence, usually through a relevant crop or action, with the product retaining focus. Design cropping together with the viewpoint: check operator/product/viewer positions, arm origins, action target and contact. Retain the context needed for the action to make spatial sense. A complete person is a task-dependent choice.
+Avoid a complete person unless the task needs one; prefer relevant crops or actions when people help explain use. Keep the product primary: human area, clarity, faces and gaze must not take its focus. Design cropping together with the viewpoint: check operator/product/viewer positions, arm origins, action target and contact. Retain the context needed for the action to make spatial sense. For front-facing camera handling or other views that depend on an operator behind the product, do not simply erase the head/body and leave hands without an intelligible operator; retain a coherent crop or change viewpoint.
 
 Follow an explicit brief requesting type-led, person-led or other special composition instead of these defaults.
 

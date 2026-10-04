@@ -7,6 +7,8 @@ description: 依据真实商品与营销资料制作、精修或评审单张中�
 
 依据商品素材和简报，制作可交付的实际图像。按用户指定的版位、语言、数量、方向与方法执行。
 
+用户已明确的要求与禁止项属于执行硬约束，任务继续或规则整理后仍有效，除非用户明确更新。按[明确要求与禁止项](references/production.md#明确要求与禁止项)记录适用范围、落实到制作指令并逐项验收。
+
 ## 工作流程
 
 1. 按[制作与验收](references/production.md)建立简报、商品身份依据和准确文案；以原素材及确认资料约束商品结构与商业事实。
@@ -23,7 +25,7 @@ description: 依据真实商品与营销资料制作、精修或评审单张中�
 | [art-direction.md](references/art-direction.md) | 主题、背景、商品/人物主次及信息层级 | 构思或调整整体画面 |
 | [typography-and-ornament.md](references/typography-and-ornament.md) | 字形、强调、排法与装饰的审美判断 | 生成或精修图内文字 |
 | [render-and-material.md](references/render-and-material.md) | 光影、材料响应、纹理与空间融合 | 发展摄影/渲染，处理贴图感或油腻感 |
-| [production.md](references/production.md) | 事实依据、制作路径、指令、局部修正与验收 | 制作、精修或交付检查 |
+| [production.md](references/production.md) | 明确约束、事实依据、制作路径、指令与验收 | 制作、精修或交付检查 |
 | [reference-guide.md](references/reference-guide.md) | 可用参考的角色、选择和迁移方法 | 使用参考或对照诊断 |
 | [visual-form-reference.md](references/visual-form-reference.md) | 图像提取的元素与组合关系，按设计职责分类 | 寻找具体形式时，按需读对应章节 |
 | [layout-contract.md](references/layout-contract.md) | 可选精确排版脚本的输入输出 | 确定使用脚本时 |

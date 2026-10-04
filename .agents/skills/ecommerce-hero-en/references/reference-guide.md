@@ -10,6 +10,8 @@ For concrete extracted elements and relationships, read [visual form references]
 
 Select by `polarity`: `positive` supports design relationships and quality calibration; `negative` supports diagnosis and repair comparison. Existing negative labels reflect the user's classification of “不应该的图片” and “像电商首页的图片-文字量大元素多”. Folder names and historical ID prefixes alone do not determine role. Confirm roles and update paths when files move or are added.
 
+Use negative images only for diagnostic comparison, not as aspirational quality references or generative style inputs. Effective local choices may be retained without changing the user's negative classification of the whole image.
+
 References supply composition, lighting, lettering or information relationships. Establish product/marketing facts through [production evidence](production.md#establish-the-brief-and-product-evidence). Record viewing separately from actual image-tool inputs. If the user requests no reference viewing, work from the brief and design guidance.
 
 ## Choose a small relevant subset

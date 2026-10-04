@@ -1,14 +1,22 @@
 # Production and review
 
-Purpose: manage brief, product evidence, production route, local corrections and delivery checks. Read when producing or refining artwork. Use the design references for aesthetic decisions.
+Purpose: manage explicit constraints, brief, product evidence, production route, local corrections and delivery checks. Read when producing or refining artwork. Use the design references for aesthetic decisions.
+
+## Explicit requirements and prohibitions
+
+Distinguish explicit user requirements, prohibitions and default preferences in the brief, recording each item's scope. Requirements and prohibitions are acceptance constraints; aesthetic freedom, reference forms and document simplification cannot weaken them. Changes require an explicit user update; greater visual appeal is not permission to change them.
+
+This project's rose case uses flower-head source material. Retain that confirmed presentation: do not add stalks or stems or insert the flower heads into a vase or other container. This constraint applies to that case; other products follow their own evidence and user requirements.
 
 ## Establish the brief and product evidence
 
 Extract placement, audience, main reason to care, required copy/terms, language, quantity, dimensions and format. Separate user requirements, supplied facts, design inference and unknowns. Ask together when missing information changes identity, required content or core direction; otherwise make reasonable choices and continue.
 
-Record silhouette, color, patterns, connections, logos/lettering, quantity and accessories. Placement and viewpoint may change; added construction requires source imagery, confirmed materials or explicit user permission. Keep unknown regions occluded, change viewpoint, request evidence or use authentic assets. Distinguish scene props from product construction and included goods.
+Record silhouette, color, patterns, connections, logos/lettering, quantity and accessories. Placement and viewpoint may change, but do not invent construction absent from source imagery and unconfirmed by materials or the user. Typical category features and scene needs do not justify adding stems, ports, bases, supports or accessories. Keep unknown regions occluded, change viewpoint, request evidence or use authentic assets.
 
-Prices, dates, certifications, sales rankings, performance, gifts and accessories require confirmed evidence. Never invent unknown facts. Prefer authentic logo assets; use supplied brand text when suitable assets are absent. Use traceable imagery for measured effects and label generated demonstrations as creative illustrations. Verify official rules when current platform compliance is requested.
+Props must not create unconfirmed connections, imply included goods or bypass a prohibited presentation. A scene-prop or not-included caption does not exempt these constraints. Inspect the construction implied by actual connections, support and occlusion.
+
+Prices, dates, certifications, sales rankings, performance, gifts and accessories require confirmed evidence. Never invent unknown facts. Prefer authentic logo assets; use supplied brand text when suitable assets are absent, rather than inventing a mark to impersonate the original. Use traceable imagery for measured effects and label generated demonstrations as creative illustrations. Verify official rules when current platform compliance is requested.
 
 Product photos establish identity; finished ads provide design references. Respect restrictions on reference viewing and tool inputs. See [reference use](reference-guide.md) for optional library selection.
 
@@ -29,7 +37,7 @@ Use real image tools for creation/editing and scripts for composition or precise
 
 ## Write production instructions
 
-Include three groups: confirmed facts and exact copy; theme and key composition relationships; open aesthetic choices. Assign identity, composition, lighting or lettering roles to input images and retain the actual input list.
+Include confirmed facts and exact copy, applicable explicit requirements and prohibitions, theme and key composition relationships, and open aesthetic choices. State relevant structural and presentation prohibitions in the actual tool instructions; generic requests for product fidelity or skill compliance are insufficient. Assign identity, composition, lighting or lettering roles to input images and retain the actual input list.
 
 Implement user-selected treatments and necessary concept decisions, letting the model coordinate remaining typography, ornament and surfaces. Include image text explicitly for full artwork generation; reserve composition areas appropriately for background-only work.
 
@@ -45,11 +53,12 @@ Open actual full-size and intended/mobile-size exports and check:
 
 | Check | Evidence |
 |---|---|
+| Explicit requirements | Applicable requirements and prohibitions are satisfied individually; prop captions do not mask forbidden construction or presentation |
 | Identity and facts | Construction, patterns, marks and accessories match evidence; required words, numbers, currency, dates and terms are accurate |
-| Composition and reading | Product leads, theme is clear, type/image relationships work, supporting and action information fit the task |
+| Composition and reading | Product leads; headline has specific thematic character, reading rhythm and image relationships; ornament works with the whole; supporting and action information fit the task |
 | Material and space | Light, reflection, perspective, occlusion and support/action relationships are coherent; detail suits viewing scale |
 | Specifications | Files exist and open; dimensions, crop, format, language and quantity meet the brief |
 
-Label unresolved identity or required-fact errors as concept/incomplete work, listing repairs needed. Assess aesthetics from actual images and record self-review separately from user acceptance.
+Continue correcting failures of explicit requirements, prohibitions, identity or required facts. Label unresolved results as concept/incomplete work and list repairs needed; aesthetic quality cannot compensate for a failed acceptance constraint. Assess aesthetics from actual images and record self-review separately from user acceptance.
 
 Deliver artwork and concise notes. Retain original outputs, inputs, actual prompts and edit history. Composition includes source/configuration; unified generation retains materials for a new run. Report only checked specifications and completion status.

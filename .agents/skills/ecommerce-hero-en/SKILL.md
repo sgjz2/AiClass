@@ -7,6 +7,8 @@ description: Produce, refine or review a single English ecommerce hero, promotio
 
 Produce an actual deliverable image from the product materials and brief. Follow the user's placement, language, quantity, selected direction and method.
 
+Explicit user requirements and prohibitions are binding through task continuation and rule maintenance until the user explicitly changes them. Record their scope, carry them into production instructions and check each through [requirements and prohibitions](references/production.md#explicit-requirements-and-prohibitions).
+
 ## Workflow
 
 1. Establish the brief, identity evidence and exact copy with [production and review](references/production.md); ground construction and commercial facts in source assets and confirmed materials.
@@ -23,7 +25,7 @@ Keep aesthetic methods open and product/required facts accurate. Composition pre
 | [art-direction.md](references/art-direction.md) | Theme, background, product/people hierarchy and reading priorities | Developing or changing the overall composition |
 | [typography-and-ornament.md](references/typography-and-ornament.md) | Letterforms, emphasis, arrangement and ornament judgment | Generating or refining image text |
 | [render-and-material.md](references/render-and-material.md) | Light, surface response, texture and spatial integration | Developing photographic/rendered work or correcting artificial integration |
-| [production.md](references/production.md) | Evidence, routes, instructions, local correction and acceptance | Producing, refining or reviewing delivery |
+| [production.md](references/production.md) | Explicit constraints, evidence, routes, instructions and acceptance | Producing, refining or reviewing delivery |
 | [reference-guide.md](references/reference-guide.md) | Reference roles, selection and adaptation | Using references or comparative diagnosis |
 | [visual-form-reference.md](references/visual-form-reference.md) | Extracted image forms and optional relationships, grouped by design role | Looking for concrete form options; read the relevant section |
 | [layout-contract.md](references/layout-contract.md) | Optional precision helper's inputs/outputs | Choosing to use that script |
