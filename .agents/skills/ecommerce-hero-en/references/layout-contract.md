@@ -37,6 +37,8 @@ Text supports explicit `\n`, `line_gap`, `tracking`, `align: left|center|right` 
 
 ## Component example
 
+This example explains fields and layer composition, not a required background-first/product-overlay workflow. `background` may be an existing complete artwork, with layers selected for actual corrections. Choose methods through [production and review](production.md#select-the-production-route).
+
 Only field usage is illustrated; supply actual copy, fonts, colors and placement.
 
 ```json

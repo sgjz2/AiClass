@@ -8,6 +8,8 @@ See optional [conceptual space](visual-form-reference.md#theme-and-conceptual-sp
 
 Choose a direction from the audience, usage situation, main reason to care or brand character. Develop it through product pose, scale, space, color and light. Lifestyle settings, abstract spaces, graphic compositions and conceptual suspension can all work. A background may suggest use or simply provide mood and beauty.
 
+Serve the current core product value and communication goal. Emphasize functional benefits, experience, emotional value or brand character with factual claims grounded in evidence. Atmosphere and ornament may create attraction without each representing a product function. Choose an expression the target audience can recognize and find interesting, rather than reusing a test case's setting, props or arrangement.
+
 Identify a concrete relationship: a product silhouette echoed by its surroundings, an action establishing scale, or contrasting materials. Develop the remaining elements around that relationship. A brand series may retain a shared visual language.
 
 When the direction is open, compare a few meaningfully different concepts if useful. When a direction is chosen, develop its successful relationships. Judge theme and composition together.
@@ -18,7 +20,7 @@ Keep the product the main subject. Its actual visible mass should be clearly lar
 
 Prefer an edge-to-edge scene or graphic background, integrating copy into readable areas. Use a full-width bottom text strip only when communication or legibility calls for it.
 
-Avoid a complete person unless the task needs one; prefer relevant crops or actions when people help explain use. Keep the product primary: human area, clarity, faces and gaze must not take its focus. Design cropping together with the viewpoint: check operator/product/viewer positions, arm origins, action target and contact. Retain the context needed for the action to make spatial sense. For front-facing camera handling or other views that depend on an operator behind the product, do not simply erase the head/body and leave hands without an intelligible operator; retain a coherent crop or change viewpoint.
+Avoid a complete person unless the task needs one; prefer relevant crops or actions when people help explain use. Keep the product primary: human area, clarity, faces and gaze must not take its focus. Design cropping together with the viewpoint: check operator/product/viewer positions, arm origins, action target and contact. Retain the context needed for the action to make spatial sense. Before removing a person, check whether the pose still works. Actions dependent on an operator need a coherent crop or changed viewpoint rather than arms without an intelligible origin or actions without an operator.
 
 Follow an explicit brief requesting type-led, person-led or other special composition instead of these defaults.
 

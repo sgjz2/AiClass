@@ -5,16 +5,16 @@ description: Produce, refine or review a single English ecommerce hero, promotio
 
 # English ecommerce hero
 
-Produce an actual deliverable image from the product materials and brief. Follow the user's placement, language, quantity, selected direction and method.
+Create ecommerce product marketing visuals that help the target audience quickly understand core product value and support the task's click, purchase or brand communication goal. Analyze requirements, organize evidence, develop concepts, produce artwork and evaluate/refine it, delivering an actual image. Follow the user's placement, language, quantity, selected direction and method; determine inputs and output specifications from the current task.
 
 Explicit user requirements and prohibitions are binding through task continuation and rule maintenance until the user explicitly changes them. Record their scope, carry them into production instructions and check each through [requirements and prohibitions](references/production.md#explicit-requirements-and-prohibitions).
 
 ## Workflow
 
-1. Establish the brief, identity evidence and exact copy with [production and review](references/production.md); ground construction and commercial facts in source assets and confirmed materials.
+1. Establish communication goal, audience, core value and its evidence with [production and review](references/production.md). Organize the brief, task constraints and exact copy; ground construction and commercial facts in source assets and confirmed materials.
 2. Develop the composition with [concept and hierarchy](references/art-direction.md), and image text with [type and ornament](references/typography-and-ornament.md). Use the light/material reference for dimensional work and the reference guide when references are permitted.
-3. Select generation, editing or composition by identity requirements and produce the artwork. Refine established good work locally.
-4. Open actual full-size and display-size exports, perform the production checks, and deliver artwork with concise notes.
+3. Select or combine generation, editing and composition by concept, tool capability and asset requirements. Product accuracy applies to every method rather than prescribing one; refine established good work locally.
+4. Open actual full-size and display-size exports. Check communication, product accuracy, design finish and task specifications, refine actual gaps and deliver artwork with concise notes.
 
 Keep aesthetic methods open and product/required facts accurate. Composition preferences live in the concept reference; explicit current user requirements take priority.
 

@@ -37,6 +37,8 @@ python scripts/render_poster.py --config layout.json --output poster.png
 
 ## 组件配置示例
 
+以下只说明字段和图层组合，不规定“先生成背景、再叠加商品”的制作流程。`background` 可以是已有完整成片，图层按实际修正需要选择；制作方法由[制作与验收](production.md#选择制作路径)确定。
+
 以下仅展示字段，文案、字体、颜色与坐标由实际设计提供。
 
 ```json

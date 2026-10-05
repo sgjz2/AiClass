@@ -16,6 +16,8 @@ Use source and confirmed materials to set highlight shape, width, intensity, ref
 
 With authentic product layers, match the environment to their viewpoint and lighting. When relighting is permitted, establish shared illumination and preserve construction and marks. Check supports, hand contact, perspective, edges, occlusion and depth for realistic scenes. In conceptual suspension, check projections and depth against the chosen spatial logic.
 
+Choose generation, editing or composition through [production methods](production.md#select-the-production-route), achieving identity accuracy and spatial integration together. Retain effective lighting relationships; local mark or construction repairs do not automatically replace the entire subject. A compositor places existing assets and does not perform relighting, reflection or contact-shadow integration. Preserving source pixels alone is not a visual acceptance pass.
+
 ## Distribute texture and color strength
 
 Let coherent form lead, followed by appropriate detail. Allocate texture contrast and sharpness by focus, distance, lighting and material. Keep critical construction, patterns and lettering accurate and recognizable.
