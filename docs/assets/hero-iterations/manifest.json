@@ -1,0 +1,440 @@
+{
+  "published_on": "2026-10-05",
+  "scope": "summary_images_only",
+  "summary": "../../hero-skill-iteration-summary.md",
+  "images": [
+    {
+      "id": "figure-01",
+      "file": "assets/hero-iterations/figure-01.png",
+      "sha256": "cd4a9c743ec323c586346c931443463e1fb63513f76aa6f6284518e1130961f2",
+      "bytes": 2885910,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户提供：最初不使用 skill 的鞋海报"
+      ]
+    },
+    {
+      "id": "figure-02",
+      "file": "assets/hero-iterations/figure-02.png",
+      "sha256": "e66a4f01a1e4daa1d4283625024f7c4622bb993177688160b69b59ad8c62b139",
+      "bytes": 3222178,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户提供：最初使用 skill 的鞋海报"
+      ]
+    },
+    {
+      "id": "figure-03",
+      "file": "assets/hero-iterations/figure-03.png",
+      "sha256": "a81c5c8d39ab0515bd3c093328e6ec8e109164a27ce915dfb2c2051fad3fcb4a",
+      "bytes": 2312782,
+      "size": [
+        1121,
+        1403
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户指出的相机手持图：人物裁切与机位逻辑不自然"
+      ]
+    },
+    {
+      "id": "figure-04",
+      "file": "assets/hero-iterations/figure-04.png",
+      "sha256": "d136cf67f64b700c285c7414ca463cfb42c9c219fd70aeabeb2c6456425639e1",
+      "bytes": 2855097,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "吹风机：v4 文字优化阶段"
+      ]
+    },
+    {
+      "id": "figure-05",
+      "file": "assets/hero-iterations/figure-05.png",
+      "sha256": "71f60724d8c8b386cf911d2bb679010605c4086318c0e7fcf8f96267765ab155",
+      "bytes": 3929254,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "玫瑰花：v4 文字优化阶段"
+      ]
+    },
+    {
+      "id": "figure-06",
+      "file": "assets/hero-iterations/figure-06.png",
+      "sha256": "d79e640cefeba1b9983396f741bbc61823c4da6bac84e561a2b6bc712d791c5a",
+      "bytes": 3768869,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "失败证据：无图库玫瑰花图引入了未确认花柄/花瓶关系"
+      ]
+    },
+    {
+      "id": "figure-07",
+      "file": "assets/hero-iterations/figure-07.png",
+      "sha256": "328e3ed79aeeb44492c216303cbd15685dbfa56e6c3c80a17eccf2db8b8717a2",
+      "bytes": 4403724,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "结构约束后的玫瑰花试跑；装饰又显得过于收敛"
+      ]
+    },
+    {
+      "id": "figure-08",
+      "file": "assets/hero-iterations/figure-08.png",
+      "sha256": "331c08a3eb8345a366bf0e91e48458c0f5785f73342aaa55f7ff92119badea97",
+      "bytes": 223808,
+      "size": [
+        416,
+        337
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户标红：需要解释和反思的局部细线"
+      ]
+    },
+    {
+      "id": "figure-09",
+      "file": "assets/hero-iterations/figure-09.png",
+      "sha256": "95feb9e8e4ec94526157294504da9ce8144cdeeb1f77351ada641ca8258fa365",
+      "bytes": 388419,
+      "size": [
+        616,
+        431
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户标蓝：可以接受的围合与构图关系"
+      ]
+    },
+    {
+      "id": "figure-10",
+      "file": "assets/hero-iterations/figure-10.png",
+      "sha256": "c2dee99ced2a217b68f63627c91cfeaf47d336cffdc7829030b1a33792c83e49",
+      "bytes": 4318826,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "重新允许氛围装饰后的玫瑰花试跑"
+      ]
+    },
+    {
+      "id": "figure-11",
+      "file": "assets/hero-iterations/figure-11.png",
+      "sha256": "f01b940c93653060fbe53edc35cdc074657d1859b9b6ed3ddf5570bddac6775b",
+      "bytes": 2661978,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户认可的相机文字与框角组合"
+      ]
+    },
+    {
+      "id": "figure-12",
+      "file": "assets/hero-iterations/figure-12.png",
+      "sha256": "038594059fe723b5b10b265adffb7a414b507ad25116c302ddf54b079eb4a36f",
+      "bytes": 3471295,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "统一规则后的新构思相机试跑；随后收到标题占比过大的反馈"
+      ]
+    },
+    {
+      "id": "figure-13",
+      "file": "assets/hero-iterations/figure-13.png",
+      "sha256": "00467890228572345b8d7b8f5fda9287e045e50eabbf297c26e186f4517ed727",
+      "bytes": 3292922,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "咖啡机：当时阶段定稿 skill 试跑"
+      ]
+    },
+    {
+      "id": "figure-14",
+      "file": "assets/hero-iterations/figure-14.png",
+      "sha256": "f7931ac241ca4dfbf21eb49334d66ad7ff36a78bc945ac4904f3c1e997708c3e",
+      "bytes": 3367710,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "咖啡机：不使用 skill，另行构思"
+      ]
+    },
+    {
+      "id": "figure-15",
+      "file": "assets/hero-iterations/figure-15.png",
+      "sha256": "937dab02e2e0b7c6e8595c0dea16d337d9f729e34c39d854d347045f12243140",
+      "bytes": 3369335,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "壁灯：当时阶段定稿 skill 试跑"
+      ]
+    },
+    {
+      "id": "figure-16",
+      "file": "assets/hero-iterations/figure-16.png",
+      "sha256": "1b4f584faf76720f37066111ae102235eb85fc53c14ed466f39a8a5a57c0b633",
+      "bytes": 3378749,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "壁灯：不使用 skill，另行构思"
+      ]
+    },
+    {
+      "id": "figure-17",
+      "file": "assets/hero-iterations/figure-17.png",
+      "sha256": "a5ca3e3576e8d41685f0ce664dca05f0d2ccd378fca32a2488c3ae3571c41cc7",
+      "bytes": 2859806,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户提供的比较图一：花头平铺，标题较统一",
+        "用户提供的玫瑰比较图一；不凭外观判断是否使用 skill"
+      ]
+    },
+    {
+      "id": "figure-18",
+      "file": "assets/hero-iterations/figure-18.png",
+      "sha256": "9042293f63017ca4298258a4d816832c20df8d60ae576aba5a83cbaa9f2afb53",
+      "bytes": 2651657,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户提供的比较图二：花瓶与赠礼布景；审美判断不能豁免展示约束",
+        "用户提供的玫瑰比较图二；用于讨论审美与结构要求的分别验收"
+      ]
+    },
+    {
+      "id": "figure-19",
+      "file": "assets/hero-iterations/figure-19.png",
+      "sha256": "4baa4df618f74b46a3c6a7b9be1d9335a0424e4a65208e4bfb0b6f6b6b08f3cb",
+      "bytes": 2782303,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户认可的文字自由度示例：词组强调与曲线共同构图",
+        "用户认为文字更有美感的示例；价格与结构不作新商品事实依据"
+      ]
+    },
+    {
+      "id": "figure-20",
+      "file": "assets/hero-iterations/figure-20.png",
+      "sha256": "f48d180b24522c932b7a822be80182e5bd845006a303241eff598c42daaae967",
+      "bytes": 2774953,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户相机图：多处亮闪与强化纹理竞争"
+      ]
+    },
+    {
+      "id": "figure-21",
+      "file": "assets/hero-iterations/figure-21.png",
+      "sha256": "c0c30aa437eafa5090a7a0a0c7d9af5b8accef09c666ba1f241cc44a4f0b51c2",
+      "bytes": 2646180,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "用户玫瑰花图：商品与布景效果叠加"
+      ]
+    },
+    {
+      "id": "figure-22",
+      "file": "assets/hero-iterations/figure-22.png",
+      "sha256": "e3768128a92701d0a3828024d67d55f13efde37f8f234b46fb15c7a5c9b24ee1",
+      "bytes": 2606839,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "诊断依据：用户提供的新版相机成片"
+      ]
+    },
+    {
+      "id": "figure-23",
+      "file": "assets/hero-iterations/figure-23.png",
+      "sha256": "ab9212c1319048e9ca83199aa99c73d58dddd3c34b2a62d1fb2fa99e1cfad918",
+      "bytes": 2581681,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "约束恢复的反馈依据：玫瑰再次插瓶，文字与装饰偏平",
+        "用户反馈插瓶与文字装饰趋于平庸；实际生成指令未提供"
+      ]
+    },
+    {
+      "id": "figure-24",
+      "file": "assets/hero-iterations/figure-24.png",
+      "sha256": "c6fa2920edf11303daed9d073c6622d4d1b7067c6ba242fc7cfa8b34fcdcd693",
+      "bytes": 584588,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "NORI案例原商品：提供身份、形状、颜色和Logo依据",
+        "NORI 案例原商品身份素材"
+      ]
+    },
+    {
+      "id": "figure-25",
+      "file": "assets/hero-iterations/figure-25.png",
+      "sha256": "f2c2347ef22c75dd8ccf78f5511810c162a2902fc61c65828ac3bcdfaa649599",
+      "bytes": 1621036,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "实际背景与中文标题输出：商品区域为空",
+        "实际生成的背景与中文标题；提示词明确排除杯体"
+      ]
+    },
+    {
+      "id": "figure-26",
+      "file": "assets/hero-iterations/figure-26.png",
+      "sha256": "1800b5fd4ec6c5c8eef44d790bbf3ac1a016cb78ca6f1c08963610237263c877",
+      "bytes": 1874479,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "NORI已有中文成片：原商品图层合成后的导出",
+        "实际原商品图层合成后的中文导出；不是路径修正后的新试跑"
+      ]
+    },
+    {
+      "id": "figure-27",
+      "file": "assets/hero-iterations/figure-27.png",
+      "sha256": "da5174424f14aae7ef7df744b057f415ae5aa3be75d088e321d902b193c9df09",
+      "bytes": 1891034,
+      "size": [
+        1200,
+        1500
+      ],
+      "category": "summary-illustration",
+      "captions": [
+        "NORI已有英文成片：相同合成路径的语言版本",
+        "同一路径的英文导出；不是对照实验"
+      ]
+    },
+    {
+      "id": "figure-28",
+      "file": "assets/hero-iterations/figure-28.png",
+      "sha256": "8eed9d866be727ac9c9c04751d07c082974f61c65a828e16a37d4d4b8e8064e7",
+      "bytes": 1630985,
+      "size": [
+        1122,
+        1402
+      ],
+      "category": "supplementary-iteration-image",
+      "captions": [
+        "中文背景的英文标题编辑版；后续用于同一商品合成"
+      ]
+    },
+    {
+      "id": "figure-29",
+      "file": "assets/hero-iterations/figure-29.png",
+      "sha256": "b2e7c44db5ef43c42e3dc98e0a6898aa068a287d0a3a6153491861755ab3cc6f",
+      "bytes": 226051,
+      "size": [
+        360,
+        450
+      ],
+      "category": "supplementary-iteration-image",
+      "captions": [
+        "既有中文导出的手机预览"
+      ]
+    },
+    {
+      "id": "figure-30",
+      "file": "assets/hero-iterations/figure-30.png",
+      "sha256": "982272e93c75c40d8719b31971c79098ec9d84b332955c5c5381751630548f35",
+      "bytes": 231543,
+      "size": [
+        360,
+        450
+      ],
+      "category": "supplementary-iteration-image",
+      "captions": [
+        "既有英文导出的手机预览"
+      ]
+    }
+  ],
+  "unique_images": 30,
+  "image_bytes": 74813991,
+  "local_archive_summary_sha256": "39c189abba1c9837c45bece99bf71d6c362bc1585df61eaee95bd9c8ffb7a346",
+  "images_reencoded_for_publication": false,
+  "note": "Earlier archive previews and later original copies retain their existing bytes. Full originals, auxiliary records and version backups remain local."
+}

@@ -1,42 +1,35 @@
 ---
 name: ecommerce-hero-en
-description: Plan, produce, and evaluate an ecommerce product marketing hero visual when a user provides product information and requests a promotional image or design direction.
+description: Produce, refine or review a single English ecommerce hero, promotional lead image or campaign key visual from real product materials, integrating product, scene, expressive type and ornament.
 ---
 
-# Ecommerce Product Marketing Hero Visual
+# English ecommerce hero
 
-Goal: help the target customer recognize the product quickly, understand its strongest purchase reason, and read essential price or campaign information, encouraging a click or purchase. Let the task determine whether the deliverable is an image, editable source file, design rationale, or concept. Do not treat the course example's brand, canvas, or copy as universal requirements.
+Create ecommerce product marketing visuals that help the target audience quickly understand core product value and support the task's click, purchase or brand communication goal. Analyze requirements, organize evidence, develop concepts, produce artwork and evaluate/refine it, delivering an actual image. Follow the user's placement, language, quantity, selected direction and method; determine inputs and output specifications from the current task.
 
-## 1. Organize the brief and inputs
+Explicit user requirements and prohibitions are binding through task continuation and rule maintenance until the user explicitly changes them. Record their scope, carry them into production instructions and check each through [requirements and prohibitions](references/production.md#explicit-requirements-and-prohibitions).
 
-Extract the product and brand, target audience, placement, communication goal, main selling points, product images and logo, mandatory copy, price and campaign rules, language, dimensions and format, brand guidelines, and deadline. Separate confirmed facts, questions that need answers, and design choices left open.
+## Workflow
 
-Ask a few focused questions when missing product identity, mandatory copy, campaign terms, or canvas specifications would materially change the design. Continue with parts that can reasonably proceed. Never invent performance claims, specifications, discounts, dates, prices, certifications, or brand promises. Mark uncertain facts for confirmation and keep them out of final marketing copy.
+1. Establish communication goal, audience, core value and its evidence with [production and review](references/production.md). Organize the brief, task constraints and exact copy; ground construction and commercial facts in source assets and confirmed materials.
+2. Develop the composition with [concept and hierarchy](references/art-direction.md), and image text with [type and ornament](references/typography-and-ornament.md). Use the light/material reference for dimensional work and the reference guide when references are permitted.
+3. Select or combine generation, editing and composition by concept, tool capability and asset requirements. Product accuracy applies to every method rather than prescribing one; refine established good work locally.
+4. Open actual full-size and display-size exports. Check communication, product accuracy, design finish and task specifications, refine actual gaps and deliver artwork with concise notes.
 
-## 2. Set the content hierarchy and visual direction
+Keep aesthetic methods open and product/required facts accurate. Composition preferences live in the concept reference; explicit current user requirements take priority.
 
-State in one sentence the product value the audience should remember. Choose one primary selling point and rank the remaining content: product and brand, headline, supporting benefits, price and campaign terms, and call to action. Adapt the amount of information to the placement and viewing speed; the core message should remain recognizable at mobile thumbnail size.
+## Resource purpose and reading conditions
 
-Propose at least two meaningfully different visual directions. Briefly describe each direction's composition, palette, type, product treatment, information hierarchy, and fit with the brief. Select a direction based on the communication goal, brand consistency, available assets, and production feasibility, and explain why. If the user already chose a clear direction, develop it directly without forcing alternatives.
+| Resource | Responsibility | Read when |
+|---|---|---|
+| [art-direction.md](references/art-direction.md) | Theme, background, product/people hierarchy and reading priorities | Developing or changing the overall composition |
+| [typography-and-ornament.md](references/typography-and-ornament.md) | Letterforms, emphasis, arrangement and ornament judgment | Generating or refining image text |
+| [render-and-material.md](references/render-and-material.md) | Light, surface response, texture and spatial integration | Developing photographic/rendered work or correcting artificial integration |
+| [production.md](references/production.md) | Explicit constraints, evidence, routes, instructions and acceptance | Producing, refining or reviewing delivery |
+| [reference-guide.md](references/reference-guide.md) | Reference roles, selection and adaptation | Using references or comparative diagnosis |
+| [visual-form-reference.md](references/visual-form-reference.md) | Extracted image forms and optional relationships, grouped by design role | Looking for concrete form options; read the relevant section |
+| [layout-contract.md](references/layout-contract.md) | Optional precision helper's inputs/outputs | Choosing to use that script |
+| [local-reference-index.json](references/local-reference-index.json) | Local paths, labels, observations and hashes | Selecting a few originals through the guide |
+| [render_poster.py](scripts/render_poster.py) | Configuration-based composition of existing assets | Invoking it through the layout contract |
 
-## 3. Produce the hero visual
-
-Keep the product visually central and give the headline and essential information clear space. Control copy length, contrast, and whitespace. Do not let decorative elements obscure the product outline, brand mark, price, or campaign conditions. Follow the brand guidelines, and do not alter the logo or make the product look unlike the actual item.
-
-Generative imagery may help with backgrounds, atmosphere, or supporting elements. Check important product details, logos, and legal or campaign copy against trustworthy source assets. Correct generated text, numbers, and details during final production. Record asset sources, key prompts, and manual changes so the team can review them.
-
-## 4. Review and iterate
-
-Check at least the following:
-
-- **Communication:** Is the product, main benefit, and intended action clear at a glance?
-- **Accuracy:** Do specifications, price, dates, and campaign terms match the supplied facts? Are any unsupported claims present?
-- **Visual quality:** Are hierarchy, alignment, contrast, legibility, product edges, and image completeness sound?
-- **Brand:** Do the logo, colors, tone, and product appearance match the supplied guidance?
-- **Delivery:** Do dimensions, format, language versions, and source files meet the brief?
-
-Review at the actual placement size or an approximate mobile viewing size. Record each problem, the change made, and the result. When possible, ask someone who did not make the visual to glance at it briefly and describe the main message, then revise any point they misread.
-
-## 5. Deliver
-
-Provide the files required by the task and a short note covering the design goal, chosen direction and reason, facts checked, open questions, asset sources, and revision summary. If producing an image is not possible, deliver an actionable layout and production instructions, clearly identifying the work as a concept rather than a finished visual.
+Read resources relevant to the current work. Library originals are optional external assets; the guidance also works without that library.

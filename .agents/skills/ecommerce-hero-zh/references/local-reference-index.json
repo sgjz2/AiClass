@@ -1,0 +1,718 @@
+[
+  {
+    "id": "A1-01",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\488c5988749c340b76ca93455cd7b897.png",
+    "size": [
+      1200,
+      1500
+    ],
+    "polarity": "positive",
+    "sha256": "bf28e189225dac0e9d5cc5e40944396a05cd90015b167b99be2e0e6ff53e3e06",
+    "observed_mechanism": "黑红压缩斜向切角字、错开的行起点与速度笔触形成步履动势，价格和行动信息延续相同方向。",
+    "typography_mechanisms": [
+      "slanted condensed type",
+      "staggered lines",
+      "matching offer type"
+    ]
+  },
+  {
+    "id": "A1-02",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\NORI轻装出行保温杯广告.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "polarity": "positive",
+    "sha256": "eb051cda8ed5a002a658ea1c5516874b1c5902f04c1f4e328bc6e481050701f1",
+    "observed_mechanism": "深绿衬线气质标题、轻细品名与同气质价格数字呼应白色杯体，形成自然可靠的视觉语气。",
+    "typography_mechanisms": [
+      "serif contrast",
+      "airy product line",
+      "refined price numerals"
+    ]
+  },
+  {
+    "id": "A1-03",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\索尼轻巧创作相机广告.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "polarity": "positive",
+    "sha256": "761a6145a489ecd9ed5cc8f4daa39d6a96175d66ca69dd1de94d4d1d413ee493",
+    "observed_mechanism": "粗黑主行与轻细辅行组成标题组，大相机靠近标题，卖点处于辅助层。",
+    "typography_mechanisms": [
+      "heavy-light headline pairing",
+      "subordinate benefits"
+    ]
+  },
+  {
+    "id": "A1-04",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\都市步履数字印花高帮鞋.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "polarity": "positive",
+    "sha256": "95f2c86d148c4090eb29ab4885269c45c220e045b2f0484b81cae3adf3deb28e",
+    "observed_mechanism": "普通黑字组成紧凑双行标题，大鞋体紧接文字，通过比例与间距形成整体。",
+    "typography_mechanisms": [
+      "tight bold lockup",
+      "product adjacency"
+    ]
+  },
+  {
+    "id": "G1-01",
+    "group": "不应该的图片",
+    "path": "C:\\SmartLearn\\参考\\不应该的图片\\内容太多看起来混乱.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "negative",
+    "sha256": "53929c3f80a3363d667e655ee5564101a5802103a4644dc2179e3318da6e5988",
+    "observed_mechanism": "多个品牌、排名、利益、优惠与价格模块同时占据高强调层，焦点竞争明显。"
+  },
+  {
+    "id": "G1-02",
+    "group": "不应该的图片",
+    "path": "C:\\SmartLearn\\参考\\不应该的图片\\效果平庸且看起来像抠图上去的.png",
+    "size": [
+      1200,
+      1500
+    ],
+    "polarity": "negative",
+    "sha256": "d9160ddabd860e2f865cc14b89fd1332123302b35dfced39fe4e36f5d7e4cfda",
+    "observed_mechanism": "鞋与背景的支撑关系较弱，下方卖点与交易信息分散。"
+  },
+  {
+    "id": "G1-03",
+    "group": "不应该的图片",
+    "path": "C:\\SmartLearn\\参考\\不应该的图片\\没有突出产品的主体.png",
+    "size": [
+      760,
+      520
+    ],
+    "polarity": "negative",
+    "sha256": "bb841dadd07c1a429cff68afc4404c7dd12ca344a2ab143ba964ca4099d2dc68",
+    "observed_mechanism": "一版商品缩在独立色块内，另一版商品与文字关系较弱，主视觉组缺少连接。"
+  },
+  {
+    "id": "G1-04",
+    "group": "不应该的图片",
+    "path": "C:\\SmartLearn\\参考\\不应该的图片\\ai味太重.png",
+    "size": [
+      1200,
+      1500
+    ],
+    "polarity": "negative",
+    "sha256": "5d1c8f8c8a6f0f2a0c89e3d979201fb558833ff1048c8f7a11215d34bbbd5993",
+    "observed_mechanism": "笔刷标题、纸条、胶囊卖点与密集秋景并置，杯身光照和接触关系较弱。"
+  },
+  {
+    "id": "G1-05",
+    "group": "不应该的图片",
+    "path": "C:\\SmartLearn\\参考\\不应该的图片\\背景杂乱ai味太重.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "polarity": "negative",
+    "sha256": "7b8b68e38dfb8255230f2c40ed0e88218d41e761f4e855a804813153bd09b7fe",
+    "observed_mechanism": "城市、山景、人物、地图、杯具与岩石等多个主题和材质焦点叠加。"
+  },
+  {
+    "id": "G2-01",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\_俄文电商主图怎么做？手持吸尘器4套版式_2_粥粥｜木木草央品牌设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "5c660b9a4d9456fc44c033b9a063aaa6e3ffc4e110ed3a94732da8546c0d4822",
+    "observed_mechanism": "吸尘器斜向贯穿画面，橙色按钮与参数标记呼应，较小附件沿边组织。"
+  },
+  {
+    "id": "G2-02",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\_俄文电商主图怎么做？手持吸尘器4套版式_4_粥粥｜木木草央品牌设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "558ef88fe9006ff10548498d6fdf9600f31ef05a5771f1e1dc11718fed5e0d13",
+    "observed_mechanism": "两支高挑机身与大型标题构成主组，附件小网格提供第二阅读层，呈现配置展示关系。"
+  },
+  {
+    "id": "G2-03",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\AI直出.柔湿巾电商场景主图（附提示词）_1_设计师栀子AI_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "57d49ea01f2b52180e4df6b765824707d762aec1b8440f507156069ab34a2302",
+    "observed_mechanism": "蓝天、云朵与飘动湿巾形成柔软洁净意象，包装保持可识别。"
+  },
+  {
+    "id": "G2-04",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\审美积累_海报分享_母婴电商海报设计_6_设计师～海川_来自小红书网页版.jpg",
+    "size": [
+      750,
+      1000
+    ],
+    "polarity": "positive",
+    "sha256": "023731ef4f2a8e33cc8300d095520bc7ede687a296e832bc883917c4757ce6fb",
+    "observed_mechanism": "跳绳与绳圈、圆形草地台座共同构图，小植物提供儿童语气。"
+  },
+  {
+    "id": "G2-05",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\电商产品主图创意海报_2_美工大王_来自小红书网页版.jpg",
+    "size": [
+      900,
+      1200
+    ],
+    "polarity": "positive",
+    "sha256": "5c502da728eb4efda018178713213caa90383c325d0cdbc1c516dda1e59aa344",
+    "observed_mechanism": "橙色刷头微结构以大比例展示，弧形大字呼应轮廓，小宠物照片提示使用对象。"
+  },
+  {
+    "id": "G2-06",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\电商产品主图创意海报_3_美工大王_来自小红书网页版.jpg",
+    "size": [
+      736,
+      981
+    ],
+    "polarity": "positive",
+    "sha256": "860770f486b3261c8c4da1cb1ee845a8520ad28d5f7154f3e69913f4bbce3669",
+    "observed_mechanism": "拖鞋斜向叠置，巨字退为背景，鞋底局部建立整体与细节关系。"
+  },
+  {
+    "id": "G2-07",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\电商详情页设计分享｜母婴推车_6_乘舟._来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "2a7c7f63fa786d308cfae1e54c283ea820fa63a50aef9673ebb15fe4de4e3835",
+    "observed_mechanism": "奶油色推车占据主要画面，标题与尺寸靠近座舱等结构，属于详情关系。"
+  },
+  {
+    "id": "G2-08",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\还在为亚马逊主图犯难？这些方案堪称宝藏_5_阿坤设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "cc8cb4c9cd3b782734c4fa5ea73de91a33516a130a3544df3b514f434cda74f7",
+    "observed_mechanism": "水瓶、球拍、网球与手部形成运动补水情境，绿色连接道具和信息标记。"
+  },
+  {
+    "id": "G2-09",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\还在为亚马逊主图犯难？这些方案堪称宝藏_7_阿坤设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "84df29193c836cd1995711f0745325b80d6710c7ad99a50e4bef51a9bc02d867",
+    "observed_mechanism": "白色吸尘器横跨黑白分区，照明细节与参数靠近，分区帮助结构辨识。"
+  },
+  {
+    "id": "G2-10",
+    "group": "主要聚焦非电子产品",
+    "path": "C:\\SmartLearn\\参考\\主要聚焦非电子产品\\还在为亚马逊主图犯难？这些方案堪称宝藏_9_阿坤设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "6c394dc4fae618db15bc7c2ccc19f22317b3622b3a0908cc2adf96813c52f1c4",
+    "observed_mechanism": "灯体曲线穿过标题与沙发情境，绿色贯穿文字和家具，辅助事实归组。"
+  },
+  {
+    "id": "G3-01",
+    "group": "像电商首页的图片-文字量大元素多",
+    "path": "C:\\SmartLearn\\参考\\像电商首页的图片-文字量大元素多\\_3_飞鱼设计_来自小红书网页版.jpg",
+    "size": [
+      800,
+      800
+    ],
+    "polarity": "negative",
+    "sha256": "fa9935d84475558ee878e6fe679f2b506739a659be6f69816c13f484a7679d73",
+    "observed_mechanism": "居中双行标题、耳机与充电盒的前后高低关系、暖台面及次层标章构成画面。"
+  },
+  {
+    "id": "G3-02",
+    "group": "像电商首页的图片-文字量大元素多",
+    "path": "C:\\SmartLearn\\参考\\像电商首页的图片-文字量大元素多\\image 16.png",
+    "size": [
+      1036,
+      1036
+    ],
+    "polarity": "negative",
+    "sha256": "6d54fe1017430c61a8f20acbaa0300ac02723bb8ddf94d8c6b4ec61c1c076db1",
+    "observed_mechanism": "多个耳机由弧形背景和影子统一，金属排名字与底部服务信息形成不同层次。"
+  },
+  {
+    "id": "G3-03",
+    "group": "像电商首页的图片-文字量大元素多",
+    "path": "C:\\SmartLearn\\参考\\像电商首页的图片-文字量大元素多\\image 17.png",
+    "size": [
+      1036,
+      1036
+    ],
+    "polarity": "negative",
+    "sha256": "aca9dc01c6be96923155fe3cbe6ea3f7de335d0bfe5f12fb9ffc3f8b78d1631b",
+    "observed_mechanism": "除螨仪斜向占右侧，左侧标题和参数集中，橙色底光连接参数与价格区。"
+  },
+  {
+    "id": "G3-04",
+    "group": "好看的促销海报",
+    "path": "C:\\SmartLearn\\参考\\好看的促销海报\\image 24.png",
+    "size": [
+      1080,
+      1080
+    ],
+    "polarity": "positive",
+    "sha256": "22d5b7086380f4bdf458f26ac2cedfedb27121400d100ffb674b1d40df3e09ff",
+    "observed_mechanism": "猫脸、食物碗与包装前后组合，弧形标题围绕使用对象，红色辅助信息归组。"
+  },
+  {
+    "id": "G3-05",
+    "group": "像电商首页的图片-文字量大元素多",
+    "path": "C:\\SmartLearn\\参考\\像电商首页的图片-文字量大元素多\\image 9.png",
+    "size": [
+      1080,
+      1080
+    ],
+    "polarity": "negative",
+    "sha256": "cd0933c49cb712a435773da4a7e60daf43cade85c44f6ccae4d2e0dd8a1de9f5",
+    "observed_mechanism": "果肉以大比例呈现，绿色贯穿标题、标签与价格区，表面水珠提供新鲜意象。"
+  },
+  {
+    "id": "G3-06",
+    "group": "像电商首页的图片-文字量大元素多",
+    "path": "C:\\SmartLearn\\参考\\像电商首页的图片-文字量大元素多\\今日分享【主图版式】_2_飞鱼设计_来自小红书网页版.jpg",
+    "size": [
+      800,
+      800
+    ],
+    "polarity": "negative",
+    "sha256": "65fa89624b02275887c5ad53fd6cbd3b42f7559b5463a1b4f8796632634d746f",
+    "observed_mechanism": "耳机留有清楚空间，型号标题、三个利益与底部补贴区分别组织。"
+  },
+  {
+    "id": "G3-07",
+    "group": "好看的促销海报",
+    "path": "C:\\SmartLearn\\参考\\好看的促销海报\\高级感产品海报怎么做_看这组就够了_5_正经设计_来自小红书网页版.jpg",
+    "size": [
+      736,
+      981
+    ],
+    "polarity": "positive",
+    "sha256": "4d27594244ca427ae05ed568e7b3ca3ba706c2af7b40dcd867c33ac66385f963",
+    "observed_mechanism": "吹风机斜置于橙黑环境，参数标签靠近机身，装饰线延续阅读方向。"
+  },
+  {
+    "id": "G4-01",
+    "group": "创意好的图片-额外画面元素和内容契合",
+    "path": "C:\\SmartLearn\\参考\\创意好的图片-额外画面元素和内容契合\\好创意能引爆转化吗？答案是~~~~~~。_10_设计师小Qiang_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "a29f413f944c75f7c40bf8fe9adbd7838ff4575fc7f259c2c35a93b9ce97ef21",
+    "observed_mechanism": "悬浮眼镜与水面涟漪建立概念空间，深浅蓝区分商品和文字。"
+  },
+  {
+    "id": "G4-02",
+    "group": "创意好的图片-额外画面元素和内容契合",
+    "path": "C:\\SmartLearn\\参考\\创意好的图片-额外画面元素和内容契合\\好创意能引爆转化吗？答案是~~~~~~。_7_设计师小Qiang_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "99073cac377b24ad586e9a40baeab7e5e778da602d21e3b26c7169aafc3d0a56",
+    "observed_mechanism": "音箱斜跨森林，大数字、商品与雾层相互遮挡，参数和环境组成一体。"
+  },
+  {
+    "id": "G4-03",
+    "group": "创意好的图片-额外画面元素和内容契合",
+    "path": "C:\\SmartLearn\\参考\\创意好的图片-额外画面元素和内容契合\\好创意能引爆转化吗？答案是~~~~~~。_9_设计师小Qiang_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "96cf6f61d1a7d285780e1c8f21b3800cdd848997ab040a8d8539b626e777352e",
+    "observed_mechanism": "放大的镜头与摄影胶片、照片串联，围绕拍摄用途形成构图。"
+  },
+  {
+    "id": "G4-04",
+    "group": "创意好的图片-额外画面元素和内容契合",
+    "path": "C:\\SmartLearn\\参考\\创意好的图片-额外画面元素和内容契合\\海报分享✨数码类_5_鱼蛋视觉研究所_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "polarity": "positive",
+    "sha256": "b1a696401f7a4627337c574c77b5a5510a0f266a2189ee1f696fba7d51c3b1c3",
+    "observed_mechanism": "相机屏幕与人物形成跨屏空间反转，黑底聚光集中注意。"
+  },
+  {
+    "id": "G5-01",
+    "group": "好看的促销海报",
+    "path": "C:\\SmartLearn\\参考\\好看的促销海报\\来看看2026的618各大品牌的KV电商海报_10_正经设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1439
+    ],
+    "polarity": "positive",
+    "sha256": "6e81f68d1888d5943561e72d0a80f4c34f5e0b8a8bedd9c056d4d3dc599d2ce2",
+    "observed_mechanism": "双椅在台面上形成高低主次，红黑渐变突出轮廓，主题与优惠分工。"
+  },
+  {
+    "id": "G5-02",
+    "group": "好看的促销海报",
+    "path": "C:\\SmartLearn\\参考\\好看的促销海报\\来看看2026的618各大品牌的KV电商海报_4_正经设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1436
+    ],
+    "polarity": "positive",
+    "sha256": "6e5093114014d43b12408099846810ae099d0108a33122e8dc53a9a94677669f",
+    "observed_mechanism": "家电按高低围绕礼物与透明台座组成商品组，红橙强调与白底形成对照。"
+  },
+  {
+    "id": "G5-03",
+    "group": "好看的促销海报",
+    "path": "C:\\SmartLearn\\参考\\好看的促销海报\\来看看2026的618各大品牌的KV电商海报_7_正经设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1924
+    ],
+    "polarity": "positive",
+    "sha256": "b0b710f3d38d15ba36a5476711dfbefa4c982654c2424660dc434c062ed6082e",
+    "observed_mechanism": "银色缎带、瓶罐与紫色光场共享材质关系，促销短条退为次层。"
+  },
+  {
+    "id": "G5-04",
+    "group": "好看的促销海报",
+    "path": "C:\\SmartLearn\\参考\\好看的促销海报\\来看看2026的618各大品牌的KV电商海报_9_正经设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1801
+    ],
+    "polarity": "positive",
+    "sha256": "090e1f156d95667760bdc6b94b9a867af1faeba379d9af07101f50a5ddf9208a",
+    "observed_mechanism": "红色场景连续贯穿文字与多层台阶，大折扣数字为交易焦点，商品按大小位置分层。"
+  },
+  {
+    "id": "G6-01",
+    "group": "展示人和产品的关系",
+    "path": "C:\\SmartLearn\\参考\\展示人和产品的关系\\image 19.png",
+    "size": [
+      598,
+      600
+    ],
+    "polarity": "positive",
+    "sha256": "0652626d6e901ab262a709463122e763c9e3846a30dbdb3a1a923930bf271b0d",
+    "observed_mechanism": "手持滴管与打开瓶口表达操作，商品清楚，文字与数据分组。"
+  },
+  {
+    "id": "G6-02",
+    "group": "展示人和产品的关系",
+    "path": "C:\\SmartLearn\\参考\\展示人和产品的关系\\image 28.png",
+    "size": [
+      609,
+      591
+    ],
+    "polarity": "positive",
+    "sha256": "d396ce9d00e8c7ef751483b6da270ea4799cda034f907129b0cbf54836416ec2",
+    "observed_mechanism": "手持洗发水提供尺度，大字退为背景并被商品遮挡。"
+  },
+  {
+    "id": "G6-03",
+    "group": "展示人和产品的关系",
+    "path": "C:\\SmartLearn\\参考\\展示人和产品的关系\\image 5.png",
+    "size": [
+      736,
+      920
+    ],
+    "polarity": "positive",
+    "sha256": "9108f59dd87a02ea88404b7fe6a98667d4b9fb2b33d9b2b3d00a0a83dcadb5cd",
+    "observed_mechanism": "近景手持水瓶放大商品，人物退后，蓝色商品与天空呼应。"
+  },
+  {
+    "id": "G6-04",
+    "group": "展示人和产品的关系",
+    "path": "C:\\SmartLearn\\参考\\展示人和产品的关系\\image 6.png",
+    "size": [
+      736,
+      960
+    ],
+    "polarity": "positive",
+    "sha256": "2b81bf30187ab71fce178f7adb6e8c04d1451f8f7a493fc144f36bdda8475ea2",
+    "observed_mechanism": "拉伸动作、前景手部与线缆解释操作，黄色文字和引导线对应动作。"
+  },
+  {
+    "id": "G6-05",
+    "group": "展示人和产品的关系",
+    "path": "C:\\SmartLearn\\参考\\展示人和产品的关系\\image 7.png",
+    "size": [
+      836,
+      940
+    ],
+    "polarity": "positive",
+    "sha256": "2ccdcfdf83588d6959f31b04538ef821a70c705e50ea9423913a675b21deabdd",
+    "observed_mechanism": "伸向前景瓶体的手部建立动作关系，紫色贯穿服饰与包装，后方小瓶提供层次。"
+  },
+  {
+    "id": "G6-06",
+    "group": "展示人和产品的关系",
+    "path": "C:\\SmartLearn\\参考\\展示人和产品的关系\\简约高级海报参考｜今日分享_2_爱设计的魑魅_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "ebe859e3700e06153cf197cf5c8bb410a5f89d743b28885e2cf89ab9a1324a00",
+    "observed_mechanism": "手托耳机建立尺度，淡色大字退为背景，留白与颜色统一。"
+  },
+  {
+    "id": "G6-08",
+    "group": "展示人和产品的关系",
+    "path": "C:\\SmartLearn\\参考\\展示人和产品的关系\\高级感产品海报怎么做_看这组就够了_6_正经设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "6a85deacdecb8795917a8205a98e42c49bff4464ca217326d1816687440db7e4",
+    "observed_mechanism": "嘴部、持麦手与麦克风构成收音情境，毛绒和机身材料不同，配件与参数在次层归组。"
+  },
+  {
+    "id": "G7-01",
+    "group": "渲染效果好的图片",
+    "path": "C:\\SmartLearn\\参考\\渲染效果好的图片\\image 23 (1).png",
+    "size": [
+      1080,
+      1680
+    ],
+    "polarity": "positive",
+    "sha256": "c80f93f0737a9d6d9a0982d396634481e1fbc75c601c30236ba7d9edc71a5449",
+    "observed_mechanism": "手持牵引装置、狗与草地形成完整操作情境，商品在前景最大。"
+  },
+  {
+    "id": "G7-04",
+    "group": "渲染效果好的图片",
+    "path": "C:\\SmartLearn\\参考\\渲染效果好的图片\\超燃的海报视觉~我先冲了！_3_设计师小Qiang_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "94352cee5d9c3ba3f9f021a4041064d9da41ec24dc36e5dcbd8678126ec9fa10",
+    "observed_mechanism": "多个小产品排列在反射台面上，轮廓反光区分材料，暗背景衬托浅色商品组。"
+  },
+  {
+    "id": "G7-05",
+    "group": "渲染效果好的图片",
+    "path": "C:\\SmartLearn\\参考\\渲染效果好的图片\\超燃的海报视觉~我先冲了！_7_设计师小Qiang_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "95afd3dc6c6200409adef80a273b76d5be377d7e4447509a9943d582fa9457d2",
+    "observed_mechanism": "方形风扇、三角支架与柔软起伏地形形成几何和材料对照，柔和转折交代体积。"
+  },
+  {
+    "id": "G7-06",
+    "group": "渲染效果好的图片",
+    "path": "C:\\SmartLearn\\参考\\渲染效果好的图片\\飞鱼灵感收录馆_9张光影产品视觉海报表现_4_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "985d0211378d24e5d4439f4cbf2310b691bf71805d5fdbc4d20239b5845d42af",
+    "observed_mechanism": "红色机身、红背景与曲面台座通过明暗层区分形体，大面积机身表面较稳定。"
+  },
+  {
+    "id": "G7-07",
+    "group": "渲染效果好的图片",
+    "path": "C:\\SmartLearn\\参考\\渲染效果好的图片\\飞鱼灵感收录馆_9张光影产品视觉海报表现_5_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "7b7e86456a72fc76f5cb2e225e387ab2b8c8e39d5d31c43707e5f2ba5c326e05",
+    "observed_mechanism": "黑色音箱用蓝色边缘光和弧面分层，上部光泽与较暗网布响应有差异。"
+  },
+  {
+    "id": "G7-08",
+    "group": "渲染效果好的图片",
+    "path": "C:\\SmartLearn\\参考\\渲染效果好的图片\\飞鱼灵感收录馆_9张光影产品视觉海报表现_7_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "c0dcf2eebf3879dec79ac18a0964eed6687eb63f7a90cb16a5f4ffc78b80b875",
+    "observed_mechanism": "相机、背景曲线与投影方向呼应，冷蓝渐变与形体共同建立空间。"
+  },
+  {
+    "id": "T1-01",
+    "group": "有趣的文字处理",
+    "path": "C:\\SmartLearn\\参考\\有趣的文字处理\\版式.jfif",
+    "size": [
+      736,
+      981
+    ],
+    "polarity": "positive",
+    "sha256": "2c32ff40f516e09aa95c6a66ef809912a1f47db8d3c105dee581dbe0303630f3",
+    "observed_mechanism": "超大青柠裁切配紧凑中英小字，衬线气质的 0 与小解释并排，比例和留白形成张力。",
+    "typography_mechanisms": [
+      "scale contrast",
+      "compact type lockup",
+      "serif numeral rhythm"
+    ]
+  },
+  {
+    "id": "T1-02",
+    "group": "有趣的文字处理",
+    "path": "C:\\SmartLearn\\参考\\有趣的文字处理\\下载 (1).jfif",
+    "size": [
+      675,
+      1200
+    ],
+    "polarity": "positive",
+    "sha256": "3ee3b2549876a4b19fb8729e99151177aa73ae6ebe2f61af007e20e8c4c89317",
+    "observed_mechanism": "横题转入竖向字序，单字随转弯旋转，括号式语句、弧线与球场斜线组织阅读。",
+    "typography_mechanisms": [
+      "directional reading",
+      "rotated character",
+      "italic aside"
+    ]
+  },
+  {
+    "id": "T1-03",
+    "group": "有趣的文字处理",
+    "path": "C:\\SmartLearn\\参考\\有趣的文字处理\\下载 2.jfif",
+    "size": [
+      736,
+      1048
+    ],
+    "polarity": "positive",
+    "sha256": "b6139029627e1831f0c1868c5347a3a47d4b5ef19a7a037a1a3157c008a0080b",
+    "observed_mechanism": "蓝色标题大小错落、紧凑叠组，倾斜字符与箭头回环同向，小字沿弧线行进。",
+    "typography_mechanisms": [
+      "staggered lockup",
+      "variable scale",
+      "curve-aligned text"
+    ]
+  },
+  {
+    "id": "T1-04",
+    "group": "有趣的文字处理",
+    "path": "C:\\SmartLearn\\参考\\有趣的文字处理\\下载3.jfif",
+    "size": [
+      735,
+      1178
+    ],
+    "polarity": "positive",
+    "sha256": "33eb43497b2d10ade783e4c51b4129d4873d26c033f796e33dc4b8894a032f5c",
+    "observed_mechanism": "轻字的大小层次与黄色宽曲线形成动势，圆环和瓶体前后叠压呼应。",
+    "typography_mechanisms": [
+      "light type hierarchy",
+      "numeral-letter motif"
+    ]
+  },
+  {
+    "id": "T1-05",
+    "group": "有趣的文字处理",
+    "path": "C:\\SmartLearn\\参考\\有趣的文字处理\\下载4.jfif",
+    "size": [
+      736,
+      981
+    ],
+    "polarity": "positive",
+    "sha256": "162b8dd8681aebb1e3284e1b7523c18b4f83f5068db88fe1c5f5e7226ec8e53e",
+    "observed_mechanism": "超大细线英文双行标题与大括号围合的中文品名组合，小英文贴近大字。",
+    "typography_mechanisms": [
+      "wide thin headline",
+      "oversized punctuation",
+      "bilingual rhythm"
+    ]
+  },
+  {
+    "id": "T1-06",
+    "group": "有趣的文字处理",
+    "path": "C:\\SmartLearn\\参考\\有趣的文字处理\\下载5.jfif",
+    "size": [
+      736,
+      1030
+    ],
+    "polarity": "positive",
+    "sha256": "993b3553ca18b78420bd4c935a11c65f407deda3c67bc956aa7dc218879c27a6",
+    "observed_mechanism": "细长巨大数字被斜向瓶体遮挡，剪影与字符共享前后空间，斜排小字和对话框退为次层。",
+    "typography_mechanisms": [
+      "condensed serif numerals",
+      "product-type overlap"
+    ]
+  },
+  {
+    "id": "A1-05",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\2331a4a1ef15617288d24e08f7a96c3d.png",
+    "size": [
+      1200,
+      1500
+    ],
+    "polarity": "positive",
+    "sha256": "5fafecf2cc3588c70f868bd1c11a2bd1db270a26927965da0c883c37b898b304",
+    "observed_mechanism": "轻细上行与厚重下行由宽大括号围合，细弧、端点与附件侧框共同组织局部关系。",
+    "typography_mechanisms": [
+      "whole-line contrast",
+      "mixed ornament weights",
+      "open brackets"
+    ]
+  },
+  {
+    "id": "A1-06",
+    "group": "好的ai生成结果",
+    "path": "C:\\SmartLearn\\参考\\好的ai生成结果\\ChatGPT 图像 2026年10月3日 17_03_40.png",
+    "size": [
+      1200,
+      1500
+    ],
+    "polarity": "positive",
+    "sha256": "71f60724d8c8b386cf911d2bb679010605c4086318c0e7fcf8f96267765ab155",
+    "observed_mechanism": "小“把”、红色大“浪漫”和深绿大小词组建立语义节奏，细红曲线承接留白并呼应花朵。",
+    "typography_mechanisms": [
+      "semantic keyword emphasis",
+      "in-line scale variation",
+      "atmospheric curve"
+    ]
+  }
+]
