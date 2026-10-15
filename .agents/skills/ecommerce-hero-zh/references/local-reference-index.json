@@ -714,5 +714,399 @@
       "in-line scale variation",
       "atmospheric curve"
     ]
+  },
+  {
+    "id": "L1-01",
+    "group": "光影补充",
+    "path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_2_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "9646d066705ac8d7bc4f2d429771b66795d87d00a841c111eea243aa847bc3df",
+    "observed_mechanism": "黑色耳机盒处于中下部，窄蓝色轮廓光、蓝色台面和投影交代体积；巨大 Pro 退在后方，白色发布文案集中于底部。",
+    "transferable_relationship": "借窄轮廓光与接触区亮度分离黑色商品和黑底；背景字可作为空间层，由商品遮挡。",
+    "suitable_for": "暗色数码产品、发布预热的局部光影参考。",
+    "cautions": "本图商品暗部细节较少，商品也未大于标题组；常规销售图应增加结构可读性，不整套照搬预热层级。",
+    "tags": [
+      "暗场轮廓光",
+      "背景巨字",
+      "接触投影"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\光影\\飞鱼灵感收录馆_9张光影产品视觉海报表现_2_飞鱼灵感设计_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [],
+    "related_reference_note": "",
+    "relative_path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_2_飞鱼灵感设计_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "将大字、盒体与台面排成前后关系，横向台面亮边稳定构图；蓝光集中在商品附近，大面积黑色形成停顿。标题不必变形，尺寸和间距就能建立发布语气。",
+    "production_and_review": "暗色产品预热时，先让轮廓与少量识别点出现，再让背景巨字退后；销售图补足关键结构亮度。缩略图检查能否先辨出产品形状，巨字是否仍处后景。"
+  },
+  {
+    "id": "L1-02",
+    "group": "光影补充",
+    "path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_3_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "996a6aaf419e9129263a00a7e169479944a4db4517d38e948d6b4f5910c9312b",
+    "observed_mechanism": "横向手机置于中部，屏幕呈暖橙与冷蓝的双侧光场；台面反射延续屏幕颜色，上方标题、联名与日期居中分级。",
+    "transferable_relationship": "让屏幕色彩在邻近台面形成方向一致、逐渐衰减的反射；以冷暖分区建立焦点。",
+    "suitable_for": "屏幕类商品或技术发布视觉。",
+    "cautions": "反射和屏幕图案属于创意表达，不证明真实亮度或显示性能；联名、日期与技术信息不可迁移。",
+    "tags": [
+      "冷暖光场",
+      "屏幕反射",
+      "居中信息层级"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\光影\\飞鱼灵感收录馆_9张光影产品视觉海报表现_3_飞鱼灵感设计_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [],
+    "related_reference_note": "",
+    "relative_path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_3_飞鱼灵感设计_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "手机横向长边充当画面中部的稳定轴，上部标题紧凑、上下留白充足；屏幕暖亮区与冷暗区的不对称形成焦点，倒影让这一亮源延伸到环境。",
+    "production_and_review": "用商品最能说明卖点的展示面建立轴线；明确哪一面发光以及反射落到哪里，辅助文案退开。检查反射的颜色、方向和衰减是否与亮源一致。"
+  },
+  {
+    "id": "L1-03",
+    "group": "光影补充",
+    "path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_4_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "0f4d0be336002685ee173b80743dab311dcbb9087f31aab286ef46c3bacdd30e",
+    "observed_mechanism": "红色手机前后视图错位叠放，背部为主，暖浅色屏幕为辅；红色曲面台座、背景亮区和机身暗面形成分层，上方价格规格并列。",
+    "transferable_relationship": "同色不等亮：通过明度、材质粗糙度和轮廓高光分离层次；多视图按主次安排，规格与价格一一对应。",
+    "suitable_for": "同色产品主视觉、已确认的多规格展示。",
+    "cautions": "多视图不表示多件装；不迁移图中的型号、价格及摄像头结构。",
+    "tags": [
+      "同色分层",
+      "前后视图",
+      "价格规格分组"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\光影\\飞鱼灵感收录馆_9张光影产品视觉海报表现_4_飞鱼灵感设计_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [
+      "G7-06"
+    ],
+    "related_reference_note": "仅按旧文件名或文字描述关联；旧原图不可用，哈希不同，未证实为同一图像版本",
+    "relative_path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_4_飞鱼灵感设计_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "背面主视图和正面辅视图有错位和遮挡，既增加纵深又展示色彩与屏幕；弧形前景切面托住直立机身，上方交易信息紧凑但不压住主体。",
+    "production_and_review": "同色空间先分出深背景、中间受光产品和近处承托面，再调皮纹、玻璃和边框的不同光泽。多视图须有已知素材支持；检查是否能一眼区分主视图和辅视图。"
+  },
+  {
+    "id": "L1-04",
+    "group": "光影补充",
+    "path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_5_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "85abf19ba219da11a1ee319841c1743f6d2c128ce97ba006f086b96f1c04576b",
+    "observed_mechanism": "音箱上部光滑罩体出现宽蓝紫亮带，下部网布低亮且纹理可见；弧形黑台面接住主体，顶部白字保持简洁。",
+    "transferable_relationship": "按材料分别控制亮带宽度和纹理对比，保持高光方向一致；用台面边缘光说明支撑而非给全身描白边。",
+    "suitable_for": "混合光滑表面与织物的音箱、耳机等商品。",
+    "cautions": "参考中的材料外观不能代替本次商品材质依据；避免把织物变成金属光泽。",
+    "tags": [
+      "材料分区",
+      "蓝紫亮带",
+      "暗色网布"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\光影\\飞鱼灵感收录馆_9张光影产品视觉海报表现_5_飞鱼灵感设计_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [
+      "G7-07"
+    ],
+    "related_reference_note": "仅按旧文件名或文字描述关联；旧原图不可用，哈希不同，未证实为同一图像版本",
+    "relative_path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_5_飞鱼灵感设计_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "大体量音箱、低视点与下方弧线共同形成稳定的纪念碑感；上部光滑表面的连续蓝紫亮带与下部细密网布对照，顶部简短白字留足呼吸。",
+    "production_and_review": "针对真实商品材料分别设计亮带，曲面高光随形体转折，粗糙区域保留较低反光。检查高光能否读出体积，以及网布是否先呈整体、近看才见纹理。"
+  },
+  {
+    "id": "L1-05",
+    "group": "光影补充",
+    "path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_9_飞鱼灵感设计_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1440
+    ],
+    "polarity": "positive",
+    "sha256": "9a5b8170f1aa6bb0aad9077bd866c48e10356307f953b6ffa44602ef4d92443d",
+    "observed_mechanism": "斜向平板大面积遮挡灰蓝 Ultra，屏幕弧线与背景底部亮场呼应，窄金属边缘和底部台面说明厚度与支撑。",
+    "transferable_relationship": "用倾角展示薄边与屏幕面积；降低背景大字对比，让它形成后景；明亮接触区与边缘高光共同分离轮廓。",
+    "suitable_for": "平板、显示器等薄型产品。",
+    "cautions": "关键型号仍需在独立文字中完整可读；不得因遮挡大字而漏掉必用信息，也不从参考推定本次屏幕或芯片参数。",
+    "tags": [
+      "薄边轮廓",
+      "背景字遮挡",
+      "底部亮场"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\光影\\飞鱼灵感收录馆_9张光影产品视觉海报表现_9_飞鱼灵感设计_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [],
+    "related_reference_note": "",
+    "relative_path": "references/images/2026-10-07补充/光影/飞鱼灵感收录馆_9张光影产品视觉海报表现_9_飞鱼灵感设计_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "斜向薄边同时展示厚度和大屏，商品遮住 Ultra 形成穿插；底部少量高亮把前景薄边从背景分离，屏幕曲线接续外部明暗。",
+    "production_and_review": "选择有依据的斜角展示面，将文字或几何背景放在商品后方；接触区只用局部亮度建立分离。检查巨字遮挡是否提升纵深，型号是否另有完整可读位置。"
+  },
+  {
+    "id": "P1-01",
+    "group": "透视与人物补充",
+    "path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_1_设计师YoYo_来自小红书网页版.jpg",
+    "size": [
+      736,
+      920
+    ],
+    "polarity": "positive",
+    "sha256": "4f3b30deb907cb7c16a757a75cce96a4f6c052fc91ede9a128c9ad3e21507e0b",
+    "observed_mechanism": "低机位下，手持蓝色水瓶贴近镜头，手臂连接后方人物；天空与瓶体同色，底部白色曲边信息区承接文案。",
+    "transferable_relationship": "通过商品到镜头的距离形成近大远小，保留握持、手腕和手臂来源；背景颜色可延续商品色。",
+    "suitable_for": "手持饮品、运动补水或便携商品情境。",
+    "cautions": "脸部和身体仍很显眼，需按本次主体要求调整；底部文字带是此图的选择，不升级为默认版式。",
+    "tags": [
+      "低机位",
+      "前景握持",
+      "色彩呼应"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\透视与人物\\高点击率的亚马逊主图这样做！鱼眼镜头效果_1_设计师YoYo_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [
+      "G6-03"
+    ],
+    "related_reference_note": "仅按旧文件名或文字描述关联；旧原图不可用，哈希不同，未证实为同一图像版本",
+    "relative_path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_1_设计师YoYo_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "水瓶因距离镜头更近而显著放大，手臂是一条通往人物的空间连接；瓶体、天空和标题共用蓝色，白色曲边区给高饱和主体一个安静的阅读落点。",
+    "production_and_review": "需要手持语境时，先设计镜头—商品—手—身体的连续关系，再压低人物的视觉竞争。检查瓶身并非被拉长，握持可信，前景标识清楚。"
+  },
+  {
+    "id": "P1-02",
+    "group": "透视与人物补充",
+    "path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_2_设计师YoYo_来自小红书网页版.jpg",
+    "size": [
+      736,
+      960
+    ],
+    "polarity": "positive",
+    "sha256": "19ca7166365176aafc56571d85b4ab04cb459527476b33b52a102b924124e016",
+    "observed_mechanism": "前景手握浅紫圆形装置，另一侧手臂拉出线缆；黄色关键词、方向箭头和尺寸标记呼应，底部用水平线展示多个长度档位。",
+    "transferable_relationship": "把动作、方向线和功能文字安排在同一阅读路径；主画面说明操作，次层示意承接已确认的尺寸或档位。",
+    "suitable_for": "有真实拉伸、伸缩或操作依据的产品。",
+    "cautions": "文件名虽称鱼眼，画面首先呈现近远透视；不能据此断言镜头参数。线缆出口、手部接触和双端动作必须符合真实结构，尺寸不得照抄。",
+    "tags": [
+      "操作关系",
+      "方向引线",
+      "分层功能示意"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\透视与人物\\高点击率的亚马逊主图这样做！鱼眼镜头效果_2_设计师YoYo_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [
+      "G6-04"
+    ],
+    "related_reference_note": "仅按旧文件名或文字描述关联；旧原图不可用，哈希不同，未证实为同一图像版本",
+    "relative_path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_2_设计师YoYo_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "近手的大圆装置、向右后方延伸的线缆和展开的手臂共同把操作可视化；黄色只强调动词关系与尺寸，底部档位图负责第二层解释。",
+    "production_and_review": "让实际操作方向与关键词、引线同向，文字描述画面已经发生的动作。检查端口、拉出方向和手部接触；尺寸线仅在资料确认后出现。"
+  },
+  {
+    "id": "P1-03",
+    "group": "透视与人物补充",
+    "path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_3_设计师YoYo_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1349
+    ],
+    "polarity": "positive",
+    "sha256": "691067a5fe3038b1ef6bce10cc81bad845a86eb438311e34eea08d3279bd0367",
+    "observed_mechanism": "紫色箱口围住后方人物，前景多台设备部分裁切并相互遮挡；面部反应位于开口中央，回收行动文案沿前景暗面放置。",
+    "transferable_relationship": "用容器边缘交代观察者位置，用前中后景遮挡组织设备集合；表情可以承担服务场景的情绪。",
+    "suitable_for": "回收、开箱或多商品服务广告。",
+    "cautions": "这是服务与人物情绪主导案例，不能作为单件商品主导的默认范本；设备集合不代表赠品或套装。",
+    "tags": [
+      "箱内视角",
+      "框景",
+      "服务广告"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\透视与人物\\高点击率的亚马逊主图这样做！鱼眼镜头效果_3_设计师YoYo_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [],
+    "related_reference_note": "",
+    "relative_path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_3_设计师YoYo_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "从容器内部向外看，四周紫色近景形成真实开口；前景设备被裁切、人物位于后方亮区，惊喜表情与换现金文案构成服务叙事。",
+    "production_and_review": "适用服务任务时先确定观察者站位，再设计容器厚度、遮挡和视线。检查拿掉无关装饰后，开箱或回收行为是否仍能读通；单品销售不要套入多设备集合。"
+  },
+  {
+    "id": "P1-04",
+    "group": "透视与人物补充",
+    "path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_4_设计师YoYo_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1350
+    ],
+    "polarity": "positive",
+    "sha256": "f42f32471bc66fd9e8aaf982696e982653bcb6baf8e192dc63936fe7a08f9f35",
+    "observed_mechanism": "网球动作人物位于圆形开口内，前景手握包装斜穿圆框，下部文字与包装形成斜向关系；蓝色环境衬托品红包装。",
+    "transferable_relationship": "让手部和商品跨越框景边界以加强前后关系；用斜向包装连接动作与信息。",
+    "suitable_for": "运动情境、便携食品或用品的局部构图参考。",
+    "cautions": "人物体量较大且下部信息密集，迁移时重新控制焦点和文字量；圆形框景本身不是鱼眼畸变，功效文案不可照搬。",
+    "tags": [
+      "出框叠压",
+      "互补色",
+      "运动动作"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\透视与人物\\高点击率的亚马逊主图这样做！鱼眼镜头效果_4_设计师YoYo_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [],
+    "related_reference_note": "",
+    "relative_path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_4_设计师YoYo_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "圆框中的远景运动员与穿出圆框的前景包装形成明确前后；倾斜包装和伸直手臂提供方向，品红包装在蓝环境中形成局部颜色焦点。",
+    "production_and_review": "先确定跨边界的是商品哪一部分以及手指遮挡关系，再让文字避开运动路径。检查圆框确实产生空间穿插，而非仅作为背景圆形贴纸。"
+  },
+  {
+    "id": "P1-05",
+    "group": "透视与人物补充",
+    "path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_5_设计师YoYo_来自小红书网页版.jpg",
+    "size": [
+      474,
+      533
+    ],
+    "polarity": "positive",
+    "sha256": "29e4cd9a7b75965d1bb1ba1543318313ebc85c5ed75a589d8944b20c5106b935",
+    "observed_mechanism": "紫标水瓶占据底部前景，人物从后方伸手触向瓶盖；两侧小瓶与棋盘格地面提供远近尺度，巨大 CHOICE 位于上方并与人头交叠。",
+    "transferable_relationship": "用地面线条、重复物体大小和手部接触建立纵深；服饰颜色可呼应包装。",
+    "suitable_for": "同款商品的概念空间与生活方式广告。",
+    "cautions": "本文件分辨率较低，只适合观察构图；标题和人物竞争强，不能直接采用其主次比例。重复瓶体不证明套装数量。",
+    "tags": [
+      "棋盘纵深",
+      "重复尺度",
+      "标题叠压"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\透视与人物\\高点击率的亚马逊主图这样做！鱼眼镜头效果_5_设计师YoYo_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [
+      "G6-05"
+    ],
+    "related_reference_note": "仅按旧文件名或文字描述关联；旧原图不可用，哈希不同，未证实为同一图像版本",
+    "relative_path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_5_设计师YoYo_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "棋盘格的汇聚、大小不同的瓶体和人物伸手动作同时提供尺度线索；上方纵长字组与人物叠压，中央近瓶建立向下的视觉落点。",
+    "production_and_review": "概念空间可用地面与重复形体建立纵深，但须保证主商品最清楚并处理重复商品的销售含义。以低分辨率图学习空间与比例，不以其模糊文字为清晰度标准。"
+  },
+  {
+    "id": "P1-06",
+    "group": "透视与人物补充",
+    "path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_6_设计师YoYo_来自小红书网页版.jpg",
+    "size": [
+      736,
+      920
+    ],
+    "polarity": "positive",
+    "sha256": "65cec3c41f6fe1b32285a9822cf9e339ee47b3f57818befb9d544c60e436f896",
+    "observed_mechanism": "近景手持紫色手机遮挡斜向巨大白色数字，人物与登山环境后退，底部窄型号条保持独立；山体和地形形成纵深。",
+    "transferable_relationship": "商品压住背景字可使参数参与空间；用独立小字保留必要信息，利用手臂和环境解释使用情境。",
+    "suitable_for": "户外便携产品、有依据的续航主题。",
+    "cautions": "背景数字被遮挡时不得要求用户猜参数；户外、流水、岩石不自动证明防水、防摔或续航表现。",
+    "tags": [
+      "参数空间化",
+      "户外纵深",
+      "手持前景"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\透视与人物\\高点击率的亚马逊主图这样做！鱼眼镜头效果_6_设计师YoYo_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [],
+    "related_reference_note": "",
+    "relative_path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_6_设计师YoYo_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "手机贴近视点，与后方人脸和山谷形成强近远差；巨大斜参数被手机遮挡，字与山地共同构成背景层，底部细长型号条提供稳定收尾。",
+    "production_and_review": "确认参数后才让数字参与后景，斜向字与产品姿态形成呼应；在另一处完整写出值与单位。检查手机边缘与手部透视、人物权重、参数可读性。"
+  },
+  {
+    "id": "P1-07",
+    "group": "透视与人物补充",
+    "path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_7_设计师YoYo_来自小红书网页版.jpg",
+    "size": [
+      1080,
+      1350
+    ],
+    "polarity": "positive",
+    "sha256": "f6fa9b58c3f9522fb0b1399030f1b1ada3095482cb2f7cbc9e1b40775f066a30",
+    "observed_mechanism": "超大手机壳斜置前景，滑板人物在上方，弧形场地和近地视点加强高度差；碎石、徽章和文字共同表达抗冲击主题。",
+    "transferable_relationship": "前景产品与背景动作沿相近对角线形成动势；用场地曲面交代视点和空间。",
+    "suitable_for": "有产品依据的防护主题创意视觉。",
+    "cautions": "这是创意合成关系，不能作为真实跌落测试；测试次数、认证徽章和军规表述需本次独立证据，碎石不得遮挡关键结构。",
+    "tags": [
+      "近地视点",
+      "对角动势",
+      "概念合成"
+    ],
+    "reference_scope": "user_quality_benchmark",
+    "classification_basis": "用户于 2026-10-13 明确认可本批 12 张海报的设计完成度，并要求后续本技能至少以此为品质目标；具体形式按任务迁移。",
+    "source_path": "E:\\桌面\\LRYecommerce-hero-zh\\references\\images\\2026-10-07补充\\透视与人物\\高点击率的亚马逊主图这样做！鱼眼镜头效果_7_设计师YoYo_来自小红书网页版.jpg",
+    "source_batch": "用户附件 2026-10-07",
+    "inspected_on": "2026-10-13",
+    "related_reference_ids": [],
+    "related_reference_note": "",
+    "relative_path": "references/images/2026-10-07补充/透视与人物/高点击率的亚马逊主图这样做！鱼眼镜头效果_7_设计师YoYo_来自小红书网页版.jpg",
+    "path_base": "skill_root",
+    "quality_confirmed_on": "2026-10-13",
+    "composition_reasoning": "近地视角把手机壳推向前景，远处滑板动作与壳体倾角呼应；弧形场地围出天空，近景冲击碎屑构成动作落点，下方文案解释主题。",
+    "production_and_review": "有依据的防护主题可让产品和背景动作共用方向，先处理壳体准确轮廓与落点，再决定少量动势效果。检查空间是否成立；创意画面不可替代测试证据。"
   }
 ]
