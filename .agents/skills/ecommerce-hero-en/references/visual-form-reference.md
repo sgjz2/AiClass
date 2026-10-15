@@ -2,7 +2,7 @@
 
 Purpose: retain concrete elements and relationships extracted from reference images as optional design examples. Read the relevant section when developing type, surfaces, composition or information groups; the recorded forms can also be used without calling the image library.
 
-Each example separates visible forms from a relationship that may be adapted. Select and recombine for the current subject. Overall hierarchy and factual requirements follow the design and production documents; product construction and commercial facts come from task materials. Use [reference guidance](reference-guide.md) and the [index](local-reference-index.json) to locate originals when further visual inspection is useful.
+Each example separates visible forms from a relationship that may be adapted. Select and recombine for the current subject. Overall hierarchy and factual requirements follow the design and production documents; product construction and commercial facts come from task materials. For the 12 user-confirmed quality benchmarks, apply [quality benchmark](quality-benchmark.md); broader form examples remain optional. Use [reference guidance](reference-guide.md) and the [index](local-reference-index.json) to locate originals when further visual inspection is useful.
 
 ## Sections
 
@@ -20,14 +20,14 @@ Each example separates visible forms from a relationship that may be adapted. Se
 | T1-01 | Oversized lime, compact bilingual copy and a serif-like zero paired with a small explanation. | A large image and small copy create tension through proportion, spacing and negative space. |
 | T1-02 | A horizontal title turns vertical, with a rotated character, yellow bouncing arcs and diagonal court lines. | Changes in direction, rotation and open endpoints establish reading rhythm. |
 | T1-03 | Blue lettering varies in size and staggered overlap; loops share space with the bottles. | Type and lines develop energy together, with scale and overlap supplying depth. |
-| T1-04 | Restrained type-weight variation, a broad yellow background curve and overlapping bottles. | Calm type can work with a broad energetic curve and product depth. |
-| T1-05 | Large thin English type, brackets around the Chinese product name, a hand and a container. | Punctuation encloses copy while width, spacing and product contour form one composition. |
-| T1-06 | Tall oversized 100%, an angled bottle, looping arrows and light doodles share foreground/background space. | Large numerals, light strokes and deliberate overlap create rhythmic weight and direction. |
+| T1-04 | Calm dark type; a broad yellow curve passes behind bottles, sharing their depth. Top benefits and lower offers have different roles. | Line weight need not equal type weight. Contrast can coordinate through color and depth; curves and lower offer zones remain choices rather than a template. |
+| T1-05 | Large fine English type, thin icons and braces share white; hand/container occupy the center and product naming makes a lower reading zone. | Type area differs from visual weight. Punctuation/icons can share fine-line character; a small container is not the default subject ratio for product-led briefs. |
+| T1-06 | Tall fine white numerals sit behind a dark diagonal bottle; loops, doodles and side copy follow the space. | Fine strokes, overlap and depth preserve product recognition despite large numbers. Claims require current-task evidence; do not mechanically copy offer strips or bottle angles. |
 | A1-01 | Black/red slanted angular lettering, staggered lines and speed strokes connect a shoe headline and price. | Letterforms, strokes and information groups can continue the same directional energy. |
 | A1-02 | A dark-green serif-like headline, light product line and related price forms accompany a white cup. | Headline and numeral character coordinate while lighter naming forms a supporting layer. |
-| A1-03 | Heavy “轻松创作” and light “精彩随行” form a headline group close to a large camera. | Whole-line weight contrast and image/type distance establish hierarchy together. |
+| A1-03 | A broad black camera leads below a whole headline group with heavy and light lines; smaller benefits sit lower. | Judge full-line contrast together with product scale rather than a single character. Do not prescribe heavy-top/light-bottom for all subjects or copy specifications/new-launch claims. |
 | A1-04 | Ordinary black lettering in a tight two-line group sits directly above large shoes. | Spacing, proportion and adjacency give ordinary type expressive force. |
-| A1-05 | Light “聪明控温”, heavy “温柔护发”, large brackets, thin arcs, dots and an accessory side frame. | Different mark types provide enclosure, local rhythm and grouping as one type/image relationship. |
+| A1-05 | Light upper and heavy lower lines sit within large braces; small arcs/dots and accessory frames share burgundy; a pale thin subject sits below. | Marks may divide enclosure and rhythm. Positive labeling does not pass every dimension: compare the dark whole headline with the pale subject independently rather than copying a brace-title template. |
 | A1-06 | Small “把”, large red “浪漫”, varied green word groups and a thin red curve echoing the flowers. | Semantic emphasis and within-line scale variation work with a curve and product color. |
 
 ## Light and material

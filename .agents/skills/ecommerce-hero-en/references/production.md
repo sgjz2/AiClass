@@ -37,11 +37,25 @@ Consider generating headings, price lettering, icons, buttons and decoration wit
 
 Use real image tools for creation/editing and scripts for composition or precise typesetting. Read the [layout contract](layout-contract.md) only when using that helper.
 
+## Clarity and output size
+
+Distinguish insufficient pixels, defocus, compression, generated construction errors and undersized text before choosing a fix. Inspect actual source dimensions and usable product-crop resolution against subject scale. A thumbnail is not the final source. Request clearer evidence or retain a reliable view when missing detail affects identity; generated detail is not authentic construction evidence.
+
+Choose tool-supported resolution for the delivery size. Retain the high-resolution original before deriving placement versions. If unspecified, choose appropriate dimensions for placement and report actual pixels rather than promising 4K through wording. Correct critical small text with suitable precision tools while retaining established style.
+
+Reacquire, regenerate or locally repair pixel/blur/compression problems as appropriate. Treat text and construction errors through their respective methods. Upscaling changes pixel dimensions/display, not proof of recovered real detail. Avoid repeated resizing/lossy saving; retain an original master, preferably lossless, and export formats as required.
+
+Inspect edges, marks, seams, key textures and copy at 100% pixels, then inspect required-copy readability at placement size. Check blur, doubled edges, aliasing, banding, compression and white sharpening rings. Intentional background blur must preserve identification and required text.
+
+## Bring benchmark quality into production
+
+For new work or major rebuilds follow [quality benchmark](quality-benchmark.md): actually view selected originals, record the relationship and adaptation, and implement viewpoint, tonal focus, material, space or text hierarchy in the actual instruction. Where the user permits and the tool accepts reference inputs, pass a few chosen style images with explicit roles rather than all 12 by default.
+
 ## Write production instructions
 
 Include confirmed facts and exact copy, applicable explicit requirements and prohibitions, theme and key composition relationships, and open aesthetic choices. State relevant structural and presentation prohibitions in the actual tool instructions; generic requests for product fidelity or skill compliance are insufficient. Assign identity, composition, lighting or lettering roles to input images and retain the actual input list.
 
-Implement user-selected treatments and necessary concept decisions, letting the model coordinate remaining typography, ornament and surfaces. Include image text explicitly for full artwork generation; reserve composition areas appropriately for background-only work.
+Implement user-selected treatments and necessary concept decisions, letting the model coordinate remaining typography, ornament and surfaces. Include image text explicitly for full artwork generation; reserve composition areas appropriately for background-only work. To implement local preferences, specify the actual solid/partitioned background, natural light to retain, designed local details and clear identity regions. Avoid instructions consisting only of higher quality, clearer or more detail.
 
 ## Refine locally
 
@@ -60,6 +74,9 @@ Open actual full-size and intended/mobile-size exports and check:
 | Marketing expression | Product is recognizable; the main message and audience-relevant value or brand character read clearly; task-required action information is clear |
 | Composition and reading | Product leads; headline has specific thematic character, reading rhythm and image relationships; ornament works with the whole; supporting and action information fit the task |
 | Material and space | Light, reflection, perspective, occlusion and support/action relationships are coherent; detail suits viewing scale |
+| Color and design detail | Large decorative gradients reduced; proportion, alignment, negative space and thematic relationships work; local detail has hierarchy and preserves product/required information |
+| Reference-quality comparison | Compare selected originals at similar sizes for dominant relationship, product expression, lighting/materials, space and type hierarchy. Address identified substantial gaps and record repairs; text/size checks alone do not establish completion |
+| Clarity | No identification-damaging blur, compression or sharpening artifacts at 100%; required text reads at placement size; report actual pixels and upscaling |
 | Specifications | Files exist and open; dimensions, crop, format, language and quantity meet the brief |
 
 Continue correcting failures of explicit requirements, prohibitions, identity or required facts. Label unresolved results as concept/incomplete work and list repairs needed; aesthetic quality cannot compensate for a failed acceptance constraint. Assess aesthetics from actual images and record self-review separately from user acceptance.
